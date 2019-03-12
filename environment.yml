@@ -1,0 +1,19 @@
+name: nlp_extractor
+dependencies:
+- python>=3.6
+- jupyter
+- notebook
+- pandas
+- numpy
+- scipy
+- cython
+- nltk
+- spacy
+- pip:
+  - datefinder
+  - ipynb
+  - html5lib
+  - regx
+  - awscli
+  - boto3
+  - unidecode

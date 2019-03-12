@@ -1,0 +1,4319 @@
+{
+    ".": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3280da9b-64ba-11e8-b7c3-4133538cdfdb",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:50 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3280da9b-64ba-11e8-b7c3-4133538cdfdb"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Third Modification of Second Amended and Restated Construction Deed of Trust.": {
+        "Entities": [
+            {
+                "Score": 0.4432719051837921,
+                "Type": "QUANTITY",
+                "Text": "Third Modification",
+                "BeginOffset": 0,
+                "EndOffset": 18
+            },
+            {
+                "Score": 0.6371273994445801,
+                "Type": "QUANTITY",
+                "Text": "Second Amended",
+                "BeginOffset": 22,
+                "EndOffset": 36
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "32a5ee6b-64ba-11e8-8d35-db4b4de68d52",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:51 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "223",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "32a5ee6b-64ba-11e8-8d35-db4b4de68d52"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Exhibit 10.17\nRECORDING REQUESTED BY AND\nWHEN RECORDED, RETURN TO:\nSHEPPARD, MULLIN, RICHTER & HAMPTON LLP\n333 South Hope Street, 48th Floor\nLos Angeles, California 90071\nAttention: Shane L. Noworatzky, Esq.": {
+        "Entities": [
+            {
+                "Score": 0.8303790092468262,
+                "Type": "TITLE",
+                "Text": "Exhibit 10.17",
+                "BeginOffset": 0,
+                "EndOffset": 13
+            },
+            {
+                "Score": 0.5545468926429749,
+                "Type": "PERSON",
+                "Text": "SHEPPARD",
+                "BeginOffset": 67,
+                "EndOffset": 75
+            },
+            {
+                "Score": 0.9441749453544617,
+                "Type": "PERSON",
+                "Text": "MULLIN",
+                "BeginOffset": 77,
+                "EndOffset": 83
+            },
+            {
+                "Score": 0.9442691802978516,
+                "Type": "PERSON",
+                "Text": "RICHTER",
+                "BeginOffset": 85,
+                "EndOffset": 92
+            },
+            {
+                "Score": 0.8491472005844116,
+                "Type": "ORGANIZATION",
+                "Text": "HAMPTON LLP",
+                "BeginOffset": 95,
+                "EndOffset": 106
+            },
+            {
+                "Score": 0.9750353097915649,
+                "Type": "LOCATION",
+                "Text": "333 South Hope Street, 48th Floor\nLos Angeles, California 90071",
+                "BeginOffset": 107,
+                "EndOffset": 170
+            },
+            {
+                "Score": 0.9020316004753113,
+                "Type": "PERSON",
+                "Text": "Shane L. Noworatzky",
+                "BeginOffset": 182,
+                "EndOffset": 201
+            },
+            {
+                "Score": 0.746929407119751,
+                "Type": "PERSON",
+                "Text": "Esq",
+                "BeginOffset": 203,
+                "EndOffset": 206
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "32ca8d78-64ba-11e8-a276-f130d52ca39d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:51 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "853",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "32ca8d78-64ba-11e8-a276-f130d52ca39d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "THIRD MODIFICATION OF SECOND AMENDED AND RESTATED\nCONSTRUCTION DEED OF TRUST, FIXTURE FILING\nAND SECURITY AGREEMENT WITH ASSIGNMENT OF RENTS.": {
+        "Entities": [
+            {
+                "Score": 0.6616792678833008,
+                "Type": "QUANTITY",
+                "Text": "SECOND AMENDED",
+                "BeginOffset": 22,
+                "EndOffset": 36
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "32f4f897-64ba-11e8-82af-a5651cf9beb7",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:51 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "117",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "32f4f897-64ba-11e8-82af-a5651cf9beb7"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "This Third Modification of Second Amended and Restated Construction Deed of Trust, Fixture Filing and Security Agreement with Assignment\nof Rents (the \u201cModification\u201d) is made as of January 28, 2009, among CIRCUS AND ELDORADO JOINT VENTURE, a Nevada general partnership (\u201cTrustor\u201d), and BANK OF AMERICA, N.A., as Administrative Agent for the Lenders referred to\nbelow (\u201cBeneficiary\u201d).": {
+        "Entities": [
+            {
+                "Score": 0.45191705226898193,
+                "Type": "QUANTITY",
+                "Text": "Third",
+                "BeginOffset": 5,
+                "EndOffset": 10
+            },
+            {
+                "Score": 0.5684412717819214,
+                "Type": "QUANTITY",
+                "Text": "Second",
+                "BeginOffset": 27,
+                "EndOffset": 33
+            },
+            {
+                "Score": 0.9980217814445496,
+                "Type": "DATE",
+                "Text": "January 28, 2009",
+                "BeginOffset": 181,
+                "EndOffset": 197
+            },
+            {
+                "Score": 0.935263991355896,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 242,
+                "EndOffset": 248
+            },
+            {
+                "Score": 0.5669963955879211,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 271,
+                "EndOffset": 278
+            },
+            {
+                "Score": 0.7233777642250061,
+                "Type": "ORGANIZATION",
+                "Text": "BANK OF AMERICA",
+                "BeginOffset": 286,
+                "EndOffset": 301
+            },
+            {
+                "Score": 0.7753148078918457,
+                "Type": "LOCATION",
+                "Text": "N.A.",
+                "BeginOffset": 303,
+                "EndOffset": 307
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "331be24f-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:51 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "710",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "331be24f-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "RECITALS\nA. Trustor has entered into that certain Second Amended and Restated Credit Agreement dated as of March 5, 2002 (as amended, modified or supplemented prior to the date hereof, the \u201cCredit Agreement\u201d)\namong Trustor, the Lenders referred to therein and Beneficiary, pursuant to which Lenders have agreed to extend certain credit facilities to Trustor.": {
+        "Entities": [
+            {
+                "Score": 0.5104725956916809,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 12,
+                "EndOffset": 19
+            },
+            {
+                "Score": 0.5643442273139954,
+                "Type": "QUANTITY",
+                "Text": "Second Amended",
+                "BeginOffset": 50,
+                "EndOffset": 64
+            },
+            {
+                "Score": 0.9984870553016663,
+                "Type": "DATE",
+                "Text": "March 5, 2002",
+                "BeginOffset": 107,
+                "EndOffset": 120
+            },
+            {
+                "Score": 0.7526150345802307,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 215,
+                "EndOffset": 222
+            },
+            {
+                "Score": 0.9140148758888245,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 350,
+                "EndOffset": 357
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "334933b0-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:52 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "522",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "334933b0-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Capitalized terms used but not defined herein are used with the meanings set forth for those terms\nin the Credit Agreement.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "337af180-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:52 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "337af180-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "B.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "33a44b63-64ba-11e8-a6a7-f39f08b56c96",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:52 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "33a44b63-64ba-11e8-a6a7-f39f08b56c96"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Certain obligations of Trustor to Beneficiary are secured by that certain Second Amended and Restated\nConstruction Deed of Trust, Fixture Filing and Security Agreement with Assignment of Rents dated as of February 26, 2002, by Trustor in favor of Beneficiary and recorded as Instrument No.": {
+        "Entities": [
+            {
+                "Score": 0.7715577483177185,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 23,
+                "EndOffset": 30
+            },
+            {
+                "Score": 0.6020891070365906,
+                "Type": "QUANTITY",
+                "Text": "Second Amended",
+                "BeginOffset": 74,
+                "EndOffset": 88
+            },
+            {
+                "Score": 0.9990853667259216,
+                "Type": "DATE",
+                "Text": "February 26, 2002",
+                "BeginOffset": 205,
+                "EndOffset": 222
+            },
+            {
+                "Score": 0.8268731236457825,
+                "Type": "ORGANIZATION",
+                "Text": "Trustor",
+                "BeginOffset": 227,
+                "EndOffset": 234
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "33c76416-64ba-11e8-a140-0d257cca49e9",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:53 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "424",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "33c76416-64ba-11e8-a140-0d257cca49e9"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "2660290 on March 5, 2002, in the Official\nRecords of the Washoe County Recorder in Washoe County, Nevada (as amended, assigned, supplemented, or restated from time to time, the \u201cDeed of Trust\u201d), which Deed of Trust encumbers that real and personal property more particularly\ndescribed in Exhibit \u201cA\u201d attached hereto.": {
+        "Entities": [
+            {
+                "Score": 0.2986694574356079,
+                "Type": "OTHER",
+                "Text": "2660290",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            },
+            {
+                "Score": 0.9993963837623596,
+                "Type": "DATE",
+                "Text": "March 5, 2002",
+                "BeginOffset": 11,
+                "EndOffset": 24
+            },
+            {
+                "Score": 0.8186874985694885,
+                "Type": "LOCATION",
+                "Text": "Washoe County Recorder",
+                "BeginOffset": 57,
+                "EndOffset": 79
+            },
+            {
+                "Score": 0.9823926091194153,
+                "Type": "LOCATION",
+                "Text": "Washoe County, Nevada",
+                "BeginOffset": 83,
+                "EndOffset": 104
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "33eec202-64ba-11e8-b345-638cd9dbf7db",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:53 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "426",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "33eec202-64ba-11e8-b345-638cd9dbf7db"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "C. Trustor and Beneficiary have agreed to modify the Credit Agreement as\nprovided for in an Amendment No.": {
+        "Entities": [
+            {
+                "Score": 0.8139346837997437,
+                "Type": "PERSON",
+                "Text": "C. Trustor",
+                "BeginOffset": 0,
+                "EndOffset": 10
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "341dc141-64ba-11e8-b7c5-a333242bb969",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:53 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "110",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "341dc141-64ba-11e8-b7c5-a333242bb969"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "6 to Second Amended and Restated Credit Agreement of even date herewith (the \u201cAmendment\u201d)..\nNOW, THEREFORE, for good and valuable consideration, the receipt and sufficiency of which are\nacknowledged, the parties hereto agree as follows:\nAGREEMENT\n1.": {
+        "Entities": [
+            {
+                "Score": 0.6700845956802368,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 0,
+                "EndOffset": 1
+            },
+            {
+                "Score": 0.6956626176834106,
+                "Type": "QUANTITY",
+                "Text": "Second",
+                "BeginOffset": 5,
+                "EndOffset": 11
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "344a2908-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:53 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "196",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "344a2908-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The Amendment is incorporated in this Modification by this reference, as though the same were set forth herein in full.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3474465b-64ba-11e8-82be-e77aa3eb5e33",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:54 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3474465b-64ba-11e8-82be-e77aa3eb5e33"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "2.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "349a443b-64ba-11e8-b853-851a6a12faa2",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:54 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "349a443b-64ba-11e8-b853-851a6a12faa2"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The Credit Agreement is amended on the terms and subject to the conditions of the Amendment, which provides for, among other things, (a) an\nextension of the Maturity Date under the Credit Agreement, and (b) a modification to the permitted prepayment of indebtedness covenant.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "34c39ea2-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:54 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "34c39ea2-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "3.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "34f116d9-64ba-11e8-a382-a758c652bc2c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:55 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "34f116d9-64ba-11e8-a382-a758c652bc2c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The Deed of Trust is modified to secure payment and performance of the Credit Agreement as amended to date, in addition to all other obligations secured thereby.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3515dd38-64ba-11e8-a840-d386fa1007c0",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:55 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3515dd38-64ba-11e8-a840-d386fa1007c0"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "4.": {
+        "Entities": [
+            {
+                "Score": 0.5382757186889648,
+                "Type": "QUANTITY",
+                "Text": "4",
+                "BeginOffset": 0,
+                "EndOffset": 1
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "353dd74a-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:55 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "102",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "353dd74a-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The real property and the whole thereof described in the Deed of Trust and in Exhibit \u201cA\u201d attached hereto shall remain subject\nto the lien, charge or encumbrance of the Deed of Trust and nothing herein contained or done pursuant hereto shall affect or be construed to affect the liens, charges or encumbrances of the Deed of Trust, or the priority thereof over other liens,\ncharges or encumbrances, or to release or affect the liability of any party or parties who may now or hereafter be liable under or on account of the Credit Agreement, any related documents and/or the Deed of Trust.": {
+        "Entities": [
+            {
+                "Score": 0.7934365272521973,
+                "Type": "TITLE",
+                "Text": "Deed of Trust",
+                "BeginOffset": 57,
+                "EndOffset": 70
+            },
+            {
+                "Score": 0.8306413292884827,
+                "Type": "TITLE",
+                "Text": "Deed of Trust",
+                "BeginOffset": 169,
+                "EndOffset": 182
+            },
+            {
+                "Score": 0.9130671620368958,
+                "Type": "TITLE",
+                "Text": "Deed of Trust",
+                "BeginOffset": 317,
+                "EndOffset": 330
+            },
+            {
+                "Score": 0.8920385241508484,
+                "Type": "TITLE",
+                "Text": "Deed of Trust",
+                "BeginOffset": 574,
+                "EndOffset": 587
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "35636129-64ba-11e8-8097-a12f7a4f2f0f",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:55 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "416",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "35636129-64ba-11e8-8097-a12f7a4f2f0f"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "5.": {
+        "Entities": [
+            {
+                "Score": 0.662876546382904,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 0,
+                "EndOffset": 1
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "35979007-64ba-11e8-9133-8157893c06d2",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:56 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "101",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "35979007-64ba-11e8-9133-8157893c06d2"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "All terms and conditions of the Deed of Trust not expressly modified herein remain in full force and effect, without waiver or amendment.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "35bf15b5-64ba-11e8-b77f-3bac79b6d182",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:56 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "35bf15b5-64ba-11e8-b77f-3bac79b6d182"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "This\nModification and the Deed of Trust shall be read together, as one document.": {
+        "Entities": [
+            {
+                "Score": 0.709060788154602,
+                "Type": "QUANTITY",
+                "Text": "one document",
+                "BeginOffset": 67,
+                "EndOffset": 79
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "35e49ef7-64ba-11e8-9b22-b3e744a28e75",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:56 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "114",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "35e49ef7-64ba-11e8-9b22-b3e744a28e75"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "6.": {
+        "Entities": [
+            {
+                "Score": 0.6572745442390442,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 0,
+                "EndOffset": 1
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "360aebc5-64ba-11e8-b7c3-4133538cdfdb",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:56 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "102",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "360aebc5-64ba-11e8-b7c3-4133538cdfdb"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "This Modification may be executed in counterparts..\n[signature page follows].": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "362e78f5-64ba-11e8-8d35-db4b4de68d52",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:57 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "362e78f5-64ba-11e8-8d35-db4b4de68d52"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "IN WITNESS WHEREOF, the parties hereto have caused this Modification to be duly executed as of the date\nfirst set forth above..\n\u201cTrustor\u201d\t \t\t \t \u201cBeneficiary\u201d.": {
+        "Entities": [
+            {
+                "Score": 0.49794822931289673,
+                "Type": "QUANTITY",
+                "Text": "first",
+                "BeginOffset": 104,
+                "EndOffset": 109
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "36525539-64ba-11e8-98ab-f9c1c5bd2000",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:57 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "111",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "36525539-64ba-11e8-98ab-f9c1c5bd2000"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "CIRCUS AND ELDORADO JOINT VENTURE,\na Nevada\ngeneral partnership\nBANK OF AMERICA, N.A.,\nas Administrative\nAgent.": {
+        "Entities": [
+            {
+                "Score": 0.9101123213768005,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 37,
+                "EndOffset": 43
+            },
+            {
+                "Score": 0.8525872230529785,
+                "Type": "LOCATION",
+                "Text": "AMERICA, N.A.",
+                "BeginOffset": 72,
+                "EndOffset": 85
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "367daaf8-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:57 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "211",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "367daaf8-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "By: \t \t/s/ Stephanie Lepori\t \t\t \tBy: \t \t/s/ Justin Lien\nStephanie Lepori, Chief Financial Officer\t \t\t \tJustin Lien, Senior Vice President\n[Printed Name and Title]\t \t\t \t[Printed Name and Title].": {
+        "Entities": [
+            {
+                "Score": 0.976000964641571,
+                "Type": "PERSON",
+                "Text": "Stephanie Lepori",
+                "BeginOffset": 11,
+                "EndOffset": 27
+            },
+            {
+                "Score": 0.980434775352478,
+                "Type": "PERSON",
+                "Text": "Justin Lien",
+                "BeginOffset": 44,
+                "EndOffset": 55
+            },
+            {
+                "Score": 0.9984319806098938,
+                "Type": "PERSON",
+                "Text": "Stephanie Lepori",
+                "BeginOffset": 56,
+                "EndOffset": 72
+            },
+            {
+                "Score": 0.9970636963844299,
+                "Type": "PERSON",
+                "Text": "Justin Lien",
+                "BeginOffset": 103,
+                "EndOffset": 114
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "36a46c17-64ba-11e8-9d4f-a1aa9bf60ff5",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:57 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "416",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "36a46c17-64ba-11e8-9d4f-a1aa9bf60ff5"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "[ALL SIGNATURES MUST BE ACKNOWLEDGED.].": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "36cbf196-64ba-11e8-a905-d33efc07334a",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:58 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "36cbf196-64ba-11e8-a905-d33efc07334a"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-3-\t  \tSignature Pages.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "36efccfb-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:58 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "36efccfb-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "ACKNOWLEDGEMENT\n(TRUSTOR)\nSTATE OF NEVADA\nCOUNTY OF WASHOE\nThis instrument was acknowledged before me on January 26, 2009 by Stephanie Lepori as Chief Financial Officer of Circus and\nEldorado Joint Venture..\n/s/ Tori Johnson\nNotary Public.": {
+        "Entities": [
+            {
+                "Score": 0.5775011777877808,
+                "Type": "LOCATION",
+                "Text": "NEVADA",
+                "BeginOffset": 35,
+                "EndOffset": 41
+            },
+            {
+                "Score": 0.9988375902175903,
+                "Type": "DATE",
+                "Text": "January 26, 2009",
+                "BeginOffset": 105,
+                "EndOffset": 121
+            },
+            {
+                "Score": 0.9996868371963501,
+                "Type": "PERSON",
+                "Text": "Stephanie Lepori",
+                "BeginOffset": 125,
+                "EndOffset": 141
+            },
+            {
+                "Score": 0.8548535108566284,
+                "Type": "ORGANIZATION",
+                "Text": "Circus and\nEldorado Joint Venture",
+                "BeginOffset": 172,
+                "EndOffset": 205
+            },
+            {
+                "Score": 0.841012716293335,
+                "Type": "PERSON",
+                "Text": "Tori Johnson",
+                "BeginOffset": 212,
+                "EndOffset": 224
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "371a38e2-64ba-11e8-85bf-735025c7419d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:58 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "547",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "371a38e2-64ba-11e8-85bf-735025c7419d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(Seal).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "37b985ad-64ba-11e8-b7c5-a333242bb969",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:59 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "37b985ad-64ba-11e8-b7c5-a333242bb969"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-4-\t  \tSignature Pages.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "37683184-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:59 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "37683184-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "ACKNOWLEDGEMENT\n(BENEFICIARY)\nSTATE OF TEXAS\nCOUNTY OF DALLAS\nThis instrument was acknowledged before me on January 26, 2009 by Justin Lien as Senior Vice President of Bank of America,\nN.A..\n/s/ Doris E. Boone\nNotary Public.": {
+        "Entities": [
+            {
+                "Score": 0.4654495418071747,
+                "Type": "LOCATION",
+                "Text": "TEXAS",
+                "BeginOffset": 39,
+                "EndOffset": 44
+            },
+            {
+                "Score": 0.8977891802787781,
+                "Type": "LOCATION",
+                "Text": "DALLAS",
+                "BeginOffset": 55,
+                "EndOffset": 61
+            },
+            {
+                "Score": 0.9988473057746887,
+                "Type": "DATE",
+                "Text": "January 26, 2009",
+                "BeginOffset": 108,
+                "EndOffset": 124
+            },
+            {
+                "Score": 0.9996034502983093,
+                "Type": "PERSON",
+                "Text": "Justin Lien",
+                "BeginOffset": 128,
+                "EndOffset": 139
+            },
+            {
+                "Score": 0.8439430594444275,
+                "Type": "ORGANIZATION",
+                "Text": "Bank of America",
+                "BeginOffset": 168,
+                "EndOffset": 183
+            },
+            {
+                "Score": 0.7222839593887329,
+                "Type": "LOCATION",
+                "Text": "N.A.",
+                "BeginOffset": 185,
+                "EndOffset": 189
+            },
+            {
+                "Score": 0.9954869747161865,
+                "Type": "PERSON",
+                "Text": "Doris E. Boone",
+                "BeginOffset": 195,
+                "EndOffset": 209
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3790a119-64ba-11e8-9fe9-4f3a632b2d0c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:59 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "715",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3790a119-64ba-11e8-9fe9-4f3a632b2d0c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-5-\t  \tSignature Pages.": {
+        "Entities": [
+            {
+                "Score": 0.7399739623069763,
+                "Type": "QUANTITY",
+                "Text": "5-\t  \tSignature Pages",
+                "BeginOffset": 1,
+                "EndOffset": 22
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "37dc9ea3-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:05:59 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "127",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "37dc9ea3-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "EXHIBIT \u201cA\u201d\nLEGAL DESCRIPTION OF PROPERTY\nTHE LAND REFERRED TO HEREIN IS SITUATED IN THE\nCOUNTY OF WASHOE, STATE OF NEVADA, AND IS DESCRIBED AS FOLLOWS:\nPARCEL 1:\nBeginning at the intersection of the Southern line of West Fifth Street with the Western line of North Virginia Street; thence Southerly along said\nWestern line of North Virginia Street, 88.00 feet; thence Westerly parallel with the Northern line of West Fourth Street 140.00 feet to the Eastern line of alley; thence Northerly along the last mentioned line 88.00 feet to said Southern line of\nWest Fifth Street; thence Easterly along said Southern line of West Fifth Street, 140.00 feet to the point of beginning.": {
+        "Entities": [
+            {
+                "Score": 0.8670850992202759,
+                "Type": "LOCATION",
+                "Text": "NEVADA",
+                "BeginOffset": 116,
+                "EndOffset": 122
+            },
+            {
+                "Score": 0.7836135029792786,
+                "Type": "LOCATION",
+                "Text": "Southern line",
+                "BeginOffset": 200,
+                "EndOffset": 213
+            },
+            {
+                "Score": 0.9939824342727661,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 217,
+                "EndOffset": 234
+            },
+            {
+                "Score": 0.6577171683311462,
+                "Type": "LOCATION",
+                "Text": "Western line",
+                "BeginOffset": 244,
+                "EndOffset": 256
+            },
+            {
+                "Score": 0.9897960424423218,
+                "Type": "LOCATION",
+                "Text": "North Virginia Street",
+                "BeginOffset": 260,
+                "EndOffset": 281
+            },
+            {
+                "Score": 0.6514581441879272,
+                "Type": "LOCATION",
+                "Text": "Southerly",
+                "BeginOffset": 290,
+                "EndOffset": 299
+            },
+            {
+                "Score": 0.942145824432373,
+                "Type": "LOCATION",
+                "Text": "North Virginia Street",
+                "BeginOffset": 327,
+                "EndOffset": 348
+            },
+            {
+                "Score": 0.983717143535614,
+                "Type": "QUANTITY",
+                "Text": "88.00 feet",
+                "BeginOffset": 350,
+                "EndOffset": 360
+            },
+            {
+                "Score": 0.6745593547821045,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 369,
+                "EndOffset": 377
+            },
+            {
+                "Score": 0.6739967465400696,
+                "Type": "LOCATION",
+                "Text": "Northern line",
+                "BeginOffset": 396,
+                "EndOffset": 409
+            },
+            {
+                "Score": 0.9903048276901245,
+                "Type": "LOCATION",
+                "Text": "West Fourth Street",
+                "BeginOffset": 413,
+                "EndOffset": 431
+            },
+            {
+                "Score": 0.9759128093719482,
+                "Type": "QUANTITY",
+                "Text": "140.00 feet",
+                "BeginOffset": 432,
+                "EndOffset": 443
+            },
+            {
+                "Score": 0.5296607613563538,
+                "Type": "LOCATION",
+                "Text": "Eastern line",
+                "BeginOffset": 451,
+                "EndOffset": 463
+            },
+            {
+                "Score": 0.8165906071662903,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 481,
+                "EndOffset": 490
+            },
+            {
+                "Score": 0.9802749156951904,
+                "Type": "QUANTITY",
+                "Text": "88.00 feet",
+                "BeginOffset": 521,
+                "EndOffset": 531
+            },
+            {
+                "Score": 0.6955867409706116,
+                "Type": "LOCATION",
+                "Text": "Southern line",
+                "BeginOffset": 540,
+                "EndOffset": 553
+            },
+            {
+                "Score": 0.9905973076820374,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 557,
+                "EndOffset": 574
+            },
+            {
+                "Score": 0.7190876007080078,
+                "Type": "LOCATION",
+                "Text": "Easterly",
+                "BeginOffset": 583,
+                "EndOffset": 591
+            },
+            {
+                "Score": 0.6577621698379517,
+                "Type": "LOCATION",
+                "Text": "Southern line",
+                "BeginOffset": 603,
+                "EndOffset": 616
+            },
+            {
+                "Score": 0.9544431567192078,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 620,
+                "EndOffset": 637
+            },
+            {
+                "Score": 0.9816594123840332,
+                "Type": "QUANTITY",
+                "Text": "140.00 feet",
+                "BeginOffset": 639,
+                "EndOffset": 650
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3803d5b8-64ba-11e8-b182-f747b2e2a806",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:00 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "2192",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3803d5b8-64ba-11e8-b182-f747b2e2a806"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 2:\nBeginning at the intersection of the West line of North Virginia Street with the North line of Lot 10 in Block \u201cB\u201d of ORIGINAL TOWN, NOW CITY OF\nRENO, according to the map thereof, filed in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871; thence Northerly along the Westerly line of North Virginia Street, 12 feet, more or less, to the Southeast\ncorner of the parcel of land described in the deed to Ivanhoe Corporation of record in Book 453, File No.": {
+        "Entities": [
+            {
+                "Score": 0.6307665109634399,
+                "Type": "TITLE",
+                "Text": "PARCEL 2",
+                "BeginOffset": 0,
+                "EndOffset": 8
+            },
+            {
+                "Score": 0.5899363160133362,
+                "Type": "LOCATION",
+                "Text": "West line",
+                "BeginOffset": 47,
+                "EndOffset": 56
+            },
+            {
+                "Score": 0.9864069223403931,
+                "Type": "LOCATION",
+                "Text": "North Virginia Street",
+                "BeginOffset": 60,
+                "EndOffset": 81
+            },
+            {
+                "Score": 0.7023868560791016,
+                "Type": "LOCATION",
+                "Text": "North line",
+                "BeginOffset": 91,
+                "EndOffset": 101
+            },
+            {
+                "Score": 0.7922990918159485,
+                "Type": "LOCATION",
+                "Text": "Lot 10",
+                "BeginOffset": 105,
+                "EndOffset": 111
+            },
+            {
+                "Score": 0.8820044994354248,
+                "Type": "LOCATION",
+                "Text": "Block \u201cB\u201d of ORIGINAL TOWN, NOW CITY OF\nRENO",
+                "BeginOffset": 115,
+                "EndOffset": 159
+            },
+            {
+                "Score": 0.8817750215530396,
+                "Type": "LOCATION",
+                "Text": "County Recorder of Washoe County, State of Nevada",
+                "BeginOffset": 218,
+                "EndOffset": 267
+            },
+            {
+                "Score": 0.99976646900177,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 272,
+                "EndOffset": 285
+            },
+            {
+                "Score": 0.7601609826087952,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 294,
+                "EndOffset": 303
+            },
+            {
+                "Score": 0.6553274989128113,
+                "Type": "LOCATION",
+                "Text": "Westerly line",
+                "BeginOffset": 314,
+                "EndOffset": 327
+            },
+            {
+                "Score": 0.985933780670166,
+                "Type": "LOCATION",
+                "Text": "North Virginia Street",
+                "BeginOffset": 331,
+                "EndOffset": 352
+            },
+            {
+                "Score": 0.9726334810256958,
+                "Type": "QUANTITY",
+                "Text": "12 feet",
+                "BeginOffset": 354,
+                "EndOffset": 361
+            },
+            {
+                "Score": 0.776428759098053,
+                "Type": "ORGANIZATION",
+                "Text": "Ivanhoe Corporation",
+                "BeginOffset": 448,
+                "EndOffset": 467
+            },
+            {
+                "Score": 0.6771411299705505,
+                "Type": "OTHER",
+                "Text": "Book 453",
+                "BeginOffset": 481,
+                "EndOffset": 489
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "383c71bd-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:00 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1512",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "383c71bd-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "278019, Deed Records; thence Westerly along the Southern line of said Ivanhoe Corporation parcel 140 feet to the Easterly line of an\nalley; thence Southerly along the last mentioned line, 12 feet, more or less, to the Northwest corner of said Lot 10; thence Easterly to the point of beginning.": {
+        "Entities": [
+            {
+                "Score": 0.6761522889137268,
+                "Type": "OTHER",
+                "Text": "278019",
+                "BeginOffset": 0,
+                "EndOffset": 6
+            },
+            {
+                "Score": 0.5740923285484314,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 29,
+                "EndOffset": 37
+            },
+            {
+                "Score": 0.8373531103134155,
+                "Type": "LOCATION",
+                "Text": "Southern line",
+                "BeginOffset": 48,
+                "EndOffset": 61
+            },
+            {
+                "Score": 0.6747218370437622,
+                "Type": "ORGANIZATION",
+                "Text": "Ivanhoe Corporation",
+                "BeginOffset": 70,
+                "EndOffset": 89
+            },
+            {
+                "Score": 0.9814450144767761,
+                "Type": "QUANTITY",
+                "Text": "140 feet",
+                "BeginOffset": 97,
+                "EndOffset": 105
+            },
+            {
+                "Score": 0.6537327170372009,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 113,
+                "EndOffset": 126
+            },
+            {
+                "Score": 0.7343056797981262,
+                "Type": "LOCATION",
+                "Text": "Southerly",
+                "BeginOffset": 147,
+                "EndOffset": 156
+            },
+            {
+                "Score": 0.9653091430664062,
+                "Type": "QUANTITY",
+                "Text": "12 feet",
+                "BeginOffset": 188,
+                "EndOffset": 195
+            },
+            {
+                "Score": 0.6452447175979614,
+                "Type": "LOCATION",
+                "Text": "Northwest corner",
+                "BeginOffset": 218,
+                "EndOffset": 234
+            },
+            {
+                "Score": 0.6944177150726318,
+                "Type": "QUANTITY",
+                "Text": "Lot 10",
+                "BeginOffset": 243,
+                "EndOffset": 249
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "38727604-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:00 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1019",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "38727604-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 3:\nLots 10, 11, 12 and the North 13 feet of Lot 13 in Block \u201cB\u201d of ORIGINAL TOWN, NOW CITY OF RENO,\naccording to the map thereof, filed in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.8742987513542175,
+                "Type": "QUANTITY",
+                "Text": "10",
+                "BeginOffset": 15,
+                "EndOffset": 17
+            },
+            {
+                "Score": 0.9944846034049988,
+                "Type": "QUANTITY",
+                "Text": "11",
+                "BeginOffset": 19,
+                "EndOffset": 21
+            },
+            {
+                "Score": 0.9989950060844421,
+                "Type": "QUANTITY",
+                "Text": "12",
+                "BeginOffset": 23,
+                "EndOffset": 25
+            },
+            {
+                "Score": 0.9393818378448486,
+                "Type": "QUANTITY",
+                "Text": "13 feet",
+                "BeginOffset": 40,
+                "EndOffset": 47
+            },
+            {
+                "Score": 0.6900398135185242,
+                "Type": "QUANTITY",
+                "Text": "13",
+                "BeginOffset": 55,
+                "EndOffset": 57
+            },
+            {
+                "Score": 0.917858362197876,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 183,
+                "EndOffset": 196
+            },
+            {
+                "Score": 0.8528604507446289,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 198,
+                "EndOffset": 213
+            },
+            {
+                "Score": 0.9995601177215576,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 218,
+                "EndOffset": 231
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "389d07e5-64ba-11e8-a382-a758c652bc2c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:01 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "784",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "389d07e5-64ba-11e8-a382-a758c652bc2c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 4:.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "38c85df3-64ba-11e8-a840-d386fa1007c0",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:01 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "38c85df3-64ba-11e8-a840-d386fa1007c0"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The Northerly 9.25 feet of Lot 3 and all of Lots 4, 5, 6, 7 and 8 in Block \u201cB\u201d of ORIGINAL TOWN, NOW CITY OF RENO, according\nto the map thereof, filed in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871..\n-1-\t  \tLegal Description.": {
+        "Entities": [
+            {
+                "Score": 0.9693681001663208,
+                "Type": "QUANTITY",
+                "Text": "9.25 feet",
+                "BeginOffset": 14,
+                "EndOffset": 23
+            },
+            {
+                "Score": 0.8490995168685913,
+                "Type": "QUANTITY",
+                "Text": "Lot 3",
+                "BeginOffset": 27,
+                "EndOffset": 32
+            },
+            {
+                "Score": 0.8662242293357849,
+                "Type": "QUANTITY",
+                "Text": "4",
+                "BeginOffset": 49,
+                "EndOffset": 50
+            },
+            {
+                "Score": 0.9990631937980652,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 52,
+                "EndOffset": 53
+            },
+            {
+                "Score": 0.9994774460792542,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 55,
+                "EndOffset": 56
+            },
+            {
+                "Score": 0.9995972514152527,
+                "Type": "QUANTITY",
+                "Text": "7",
+                "BeginOffset": 58,
+                "EndOffset": 59
+            },
+            {
+                "Score": 0.9171308279037476,
+                "Type": "QUANTITY",
+                "Text": "8",
+                "BeginOffset": 64,
+                "EndOffset": 65
+            },
+            {
+                "Score": 0.9204245805740356,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 191,
+                "EndOffset": 204
+            },
+            {
+                "Score": 0.8395727872848511,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 206,
+                "EndOffset": 221
+            },
+            {
+                "Score": 0.9992173314094543,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 226,
+                "EndOffset": 239
+            },
+            {
+                "Score": 0.4083881974220276,
+                "Type": "QUANTITY",
+                "Text": "1",
+                "BeginOffset": 243,
+                "EndOffset": 244
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "38eef877-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:01 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1059",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "38eef877-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "ALSO a parcel of land bounded on the South by the Southern line of the 40 foot alley as laid out on the\nmap of the Town, now City of Reno, in said Block \u201cB\u201d, bounded on the West by the Eastern line of North Sierra Street, bounded on the North by the Southern line of West Fifth Street and bounded on the East by the Western line of the 20 foot\nalley running Northerly and Southerly through said Block \u201cB\u201d.": {
+        "Entities": [
+            {
+                "Score": 0.8262940049171448,
+                "Type": "QUANTITY",
+                "Text": "40 foot alley",
+                "BeginOffset": 71,
+                "EndOffset": 84
+            },
+            {
+                "Score": 0.8648972511291504,
+                "Type": "LOCATION",
+                "Text": "City of Reno",
+                "BeginOffset": 125,
+                "EndOffset": 137
+            },
+            {
+                "Score": 0.7019520998001099,
+                "Type": "LOCATION",
+                "Text": "Block \u201cB\u201d",
+                "BeginOffset": 147,
+                "EndOffset": 156
+            },
+            {
+                "Score": 0.5727707147598267,
+                "Type": "LOCATION",
+                "Text": "Eastern line",
+                "BeginOffset": 185,
+                "EndOffset": 197
+            },
+            {
+                "Score": 0.9969184994697571,
+                "Type": "LOCATION",
+                "Text": "North Sierra Street",
+                "BeginOffset": 201,
+                "EndOffset": 220
+            },
+            {
+                "Score": 0.7356102466583252,
+                "Type": "LOCATION",
+                "Text": "Southern line",
+                "BeginOffset": 250,
+                "EndOffset": 263
+            },
+            {
+                "Score": 0.9981055855751038,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 267,
+                "EndOffset": 284
+            },
+            {
+                "Score": 0.8846126794815063,
+                "Type": "QUANTITY",
+                "Text": "20 foot\nalley",
+                "BeginOffset": 336,
+                "EndOffset": 349
+            },
+            {
+                "Score": 0.9141848087310791,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 358,
+                "EndOffset": 367
+            },
+            {
+                "Score": 0.9307299852371216,
+                "Type": "LOCATION",
+                "Text": "Southerly",
+                "BeginOffset": 372,
+                "EndOffset": 381
+            },
+            {
+                "Score": 0.7543421983718872,
+                "Type": "LOCATION",
+                "Text": "Block \u201cB\u201d",
+                "BeginOffset": 395,
+                "EndOffset": 404
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "391bfc5f-64ba-11e8-b77f-3bac79b6d182",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:02 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1157",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "391bfc5f-64ba-11e8-b77f-3bac79b6d182"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 5:\nThe South 37 feet of Lot 13 in Block \u201cB\u201d of the \u201cORIGINAL TOWN, NOW CITY OF RENO\u201d, according to the official map thereof, filed in the\noffice of the County Recorder of Washoe County, State of Nevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.9454085826873779,
+                "Type": "QUANTITY",
+                "Text": "37 feet",
+                "BeginOffset": 20,
+                "EndOffset": 27
+            },
+            {
+                "Score": 0.5614710450172424,
+                "Type": "QUANTITY",
+                "Text": "13",
+                "BeginOffset": 35,
+                "EndOffset": 37
+            },
+            {
+                "Score": 0.9203583598136902,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 178,
+                "EndOffset": 191
+            },
+            {
+                "Score": 0.8775673508644104,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 193,
+                "EndOffset": 208
+            },
+            {
+                "Score": 0.9995529651641846,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 213,
+                "EndOffset": 226
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "398b6010-64ba-11e8-9552-dd8ed656c7f8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:02 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "512",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "398b6010-64ba-11e8-9552-dd8ed656c7f8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 6:\nLot 14 in Block B of ORIGINAL TOWN, NOW CITY OF RENO, according to the map thereof, filed in the office of the County Recorder of Washoe County, State of\nNevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.5676621794700623,
+                "Type": "QUANTITY",
+                "Text": "14 in Block",
+                "BeginOffset": 14,
+                "EndOffset": 25
+            },
+            {
+                "Score": 0.4864652752876282,
+                "Type": "LOCATION",
+                "Text": "County Recorder",
+                "BeginOffset": 121,
+                "EndOffset": 136
+            },
+            {
+                "Score": 0.9287340641021729,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 140,
+                "EndOffset": 153
+            },
+            {
+                "Score": 0.9103188514709473,
+                "Type": "LOCATION",
+                "Text": "State of\nNevada",
+                "BeginOffset": 155,
+                "EndOffset": 170
+            },
+            {
+                "Score": 0.9995596408843994,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 175,
+                "EndOffset": 188
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "39b6192d-64ba-11e8-a276-f130d52ca39d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:03 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "532",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "39b6192d-64ba-11e8-a276-f130d52ca39d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 7:\nThe West forty (40) feet of Lot Fifteen (15) in Block \u201cB\u201d fronting forty (40) feet on the North line of Fourth Street, as designated on the official map of said City of Reno, Nevada, on file and of record in the\noffice of the County Recorder in and for the said County of Washoe; the property hereby conveyed being the same property described in a Deed from May J.": {
+        "Entities": [
+            {
+                "Score": 0.5050048828125,
+                "Type": "TITLE",
+                "Text": "PARCEL 7",
+                "BeginOffset": 0,
+                "EndOffset": 8
+            },
+            {
+                "Score": 0.47028857469558716,
+                "Type": "QUANTITY",
+                "Text": "forty",
+                "BeginOffset": 19,
+                "EndOffset": 24
+            },
+            {
+                "Score": 0.9395044445991516,
+                "Type": "QUANTITY",
+                "Text": "40",
+                "BeginOffset": 26,
+                "EndOffset": 28
+            },
+            {
+                "Score": 0.7424991726875305,
+                "Type": "QUANTITY",
+                "Text": "Fifteen",
+                "BeginOffset": 42,
+                "EndOffset": 49
+            },
+            {
+                "Score": 0.9970430731773376,
+                "Type": "QUANTITY",
+                "Text": "15",
+                "BeginOffset": 51,
+                "EndOffset": 53
+            },
+            {
+                "Score": 0.744047999382019,
+                "Type": "QUANTITY",
+                "Text": "forty",
+                "BeginOffset": 77,
+                "EndOffset": 82
+            },
+            {
+                "Score": 0.9859328866004944,
+                "Type": "QUANTITY",
+                "Text": "40",
+                "BeginOffset": 84,
+                "EndOffset": 86
+            },
+            {
+                "Score": 0.7448158264160156,
+                "Type": "LOCATION",
+                "Text": "North line",
+                "BeginOffset": 100,
+                "EndOffset": 110
+            },
+            {
+                "Score": 0.9489043951034546,
+                "Type": "LOCATION",
+                "Text": "Fourth Street",
+                "BeginOffset": 114,
+                "EndOffset": 127
+            },
+            {
+                "Score": 0.8437685370445251,
+                "Type": "LOCATION",
+                "Text": "City of Reno, Nevada",
+                "BeginOffset": 171,
+                "EndOffset": 191
+            },
+            {
+                "Score": 0.7477855682373047,
+                "Type": "LOCATION",
+                "Text": "County Recorder",
+                "BeginOffset": 236,
+                "EndOffset": 251
+            },
+            {
+                "Score": 0.8926959037780762,
+                "Type": "LOCATION",
+                "Text": "County of Washoe",
+                "BeginOffset": 272,
+                "EndOffset": 288
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "39e0f97c-64ba-11e8-82af-a5651cf9beb7",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:03 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1282",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "39e0f97c-64ba-11e8-82af-a5651cf9beb7"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "A. Nadon and others to Dale V. Clanton, dated November 18, 1920, and filed for record on\nthe 29th day of November, 1920, in the office of the County Recorder in and for the County of Washoe, and therein recorded in Book 56 of Deeds, at Page 440.": {
+        "Entities": [
+            {
+                "Score": 0.9604431986808777,
+                "Type": "PERSON",
+                "Text": "A. Nadon",
+                "BeginOffset": 0,
+                "EndOffset": 8
+            },
+            {
+                "Score": 0.998792290687561,
+                "Type": "PERSON",
+                "Text": "Dale V. Clanton",
+                "BeginOffset": 23,
+                "EndOffset": 38
+            },
+            {
+                "Score": 0.9992711544036865,
+                "Type": "DATE",
+                "Text": "November 18, 1920",
+                "BeginOffset": 46,
+                "EndOffset": 63
+            },
+            {
+                "Score": 0.9052191376686096,
+                "Type": "QUANTITY",
+                "Text": "29th day",
+                "BeginOffset": 93,
+                "EndOffset": 101
+            },
+            {
+                "Score": 0.9964048862457275,
+                "Type": "DATE",
+                "Text": "November, 1920",
+                "BeginOffset": 105,
+                "EndOffset": 119
+            },
+            {
+                "Score": 0.7899253964424133,
+                "Type": "LOCATION",
+                "Text": "County Recorder",
+                "BeginOffset": 142,
+                "EndOffset": 157
+            },
+            {
+                "Score": 0.9289631247520447,
+                "Type": "LOCATION",
+                "Text": "County of Washoe",
+                "BeginOffset": 173,
+                "EndOffset": 189
+            },
+            {
+                "Score": 0.6658369302749634,
+                "Type": "QUANTITY",
+                "Text": "Book 56",
+                "BeginOffset": 215,
+                "EndOffset": 222
+            },
+            {
+                "Score": 0.6137725710868835,
+                "Type": "PERSON",
+                "Text": "Deeds",
+                "BeginOffset": 226,
+                "EndOffset": 231
+            },
+            {
+                "Score": 0.9441925883293152,
+                "Type": "QUANTITY",
+                "Text": "Page 440",
+                "BeginOffset": 236,
+                "EndOffset": 244
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3a102094-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:03 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1014",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3a102094-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 8:\nThe East 100 feet of Lot 15 in Block B of original town, now City of Reno, according to the map thereof, filed in\nthe office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.5098140835762024,
+                "Type": "TITLE",
+                "Text": "PARCEL 8",
+                "BeginOffset": 0,
+                "EndOffset": 8
+            },
+            {
+                "Score": 0.955383837223053,
+                "Type": "QUANTITY",
+                "Text": "100 feet",
+                "BeginOffset": 19,
+                "EndOffset": 27
+            },
+            {
+                "Score": 0.6164416670799255,
+                "Type": "QUANTITY",
+                "Text": "15",
+                "BeginOffset": 35,
+                "EndOffset": 37
+            },
+            {
+                "Score": 0.816672146320343,
+                "Type": "LOCATION",
+                "Text": "City of Reno",
+                "BeginOffset": 71,
+                "EndOffset": 83
+            },
+            {
+                "Score": 0.8216765522956848,
+                "Type": "LOCATION",
+                "Text": "County Recorder of Washoe County, State of Nevada",
+                "BeginOffset": 142,
+                "EndOffset": 191
+            },
+            {
+                "Score": 0.9996256828308105,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 196,
+                "EndOffset": 209
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3a3d7164-64ba-11e8-9d4f-a1aa9bf60ff5",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:03 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "634",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3a3d7164-64ba-11e8-9d4f-a1aa9bf60ff5"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 9:\nAll of Lots 1 and 2, and the South 40.75 feet of Lot 3 in Block B of the ORIGINAL TOWN, NOW CITY OF RENO, according to the map thereof, filed in the\noffice of the County Recorder of Washoe County, State of Nevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.8436576128005981,
+                "Type": "QUANTITY",
+                "Text": "1",
+                "BeginOffset": 22,
+                "EndOffset": 23
+            },
+            {
+                "Score": 0.9967060685157776,
+                "Type": "QUANTITY",
+                "Text": "2",
+                "BeginOffset": 28,
+                "EndOffset": 29
+            },
+            {
+                "Score": 0.9628319144248962,
+                "Type": "QUANTITY",
+                "Text": "40.75 feet",
+                "BeginOffset": 45,
+                "EndOffset": 55
+            },
+            {
+                "Score": 0.6917778253555298,
+                "Type": "QUANTITY",
+                "Text": "3",
+                "BeginOffset": 63,
+                "EndOffset": 64
+            },
+            {
+                "Score": 0.9173977971076965,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 192,
+                "EndOffset": 205
+            },
+            {
+                "Score": 0.8462285995483398,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 207,
+                "EndOffset": 222
+            },
+            {
+                "Score": 0.9995488524436951,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 227,
+                "EndOffset": 240
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3a6d0d78-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:04 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "694",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3a6d0d78-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 10:\nThe South 20 feet of Lot 10, and all of Lots 11, 12, 13, 14, 15 and 16, in Block A, of ORIGINAL TOWN, NOW CITY OF RENO, according to the map thereof,\nfiled in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871..\n-2-\t  \tLegal Description.": {
+        "Entities": [
+            {
+                "Score": 0.9421665072441101,
+                "Type": "QUANTITY",
+                "Text": "20 feet",
+                "BeginOffset": 21,
+                "EndOffset": 28
+            },
+            {
+                "Score": 0.7984686493873596,
+                "Type": "QUANTITY",
+                "Text": "Lot 10",
+                "BeginOffset": 32,
+                "EndOffset": 38
+            },
+            {
+                "Score": 0.7734313607215881,
+                "Type": "QUANTITY",
+                "Text": "11",
+                "BeginOffset": 56,
+                "EndOffset": 58
+            },
+            {
+                "Score": 0.9973134398460388,
+                "Type": "QUANTITY",
+                "Text": "12",
+                "BeginOffset": 60,
+                "EndOffset": 62
+            },
+            {
+                "Score": 0.999214768409729,
+                "Type": "QUANTITY",
+                "Text": "13",
+                "BeginOffset": 64,
+                "EndOffset": 66
+            },
+            {
+                "Score": 0.9994322657585144,
+                "Type": "QUANTITY",
+                "Text": "14",
+                "BeginOffset": 68,
+                "EndOffset": 70
+            },
+            {
+                "Score": 0.9997005462646484,
+                "Type": "QUANTITY",
+                "Text": "15",
+                "BeginOffset": 72,
+                "EndOffset": 74
+            },
+            {
+                "Score": 0.9976539015769958,
+                "Type": "QUANTITY",
+                "Text": "16",
+                "BeginOffset": 79,
+                "EndOffset": 81
+            },
+            {
+                "Score": 0.9187973737716675,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 207,
+                "EndOffset": 220
+            },
+            {
+                "Score": 0.8405331969261169,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 222,
+                "EndOffset": 237
+            },
+            {
+                "Score": 0.9993243217468262,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 242,
+                "EndOffset": 255
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3a98ff6f-64ba-11e8-85bf-735025c7419d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:04 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1061",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3a98ff6f-64ba-11e8-85bf-735025c7419d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "TOGETHER WITH the East 1/2 of the North-South alley running through said Block A, immediately adjoining\nLots 11, 12, 13, 14, 15 and 16 on the West, and more particularly described in those certain Orders of Abandonment recorded January 19, 1977 in Book 1044, Page 521 as Document No.": {
+        "Entities": [
+            {
+                "Score": 0.8525723218917847,
+                "Type": "QUANTITY",
+                "Text": "1/2",
+                "BeginOffset": 23,
+                "EndOffset": 26
+            },
+            {
+                "Score": 0.8131140470504761,
+                "Type": "LOCATION",
+                "Text": "North-South",
+                "BeginOffset": 34,
+                "EndOffset": 45
+            },
+            {
+                "Score": 0.8734399080276489,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 73,
+                "EndOffset": 80
+            },
+            {
+                "Score": 0.5983496904373169,
+                "Type": "QUANTITY",
+                "Text": "Lots 11",
+                "BeginOffset": 104,
+                "EndOffset": 111
+            },
+            {
+                "Score": 0.9874748587608337,
+                "Type": "QUANTITY",
+                "Text": "12",
+                "BeginOffset": 113,
+                "EndOffset": 115
+            },
+            {
+                "Score": 0.9973006844520569,
+                "Type": "QUANTITY",
+                "Text": "13",
+                "BeginOffset": 117,
+                "EndOffset": 119
+            },
+            {
+                "Score": 0.9986019730567932,
+                "Type": "QUANTITY",
+                "Text": "14",
+                "BeginOffset": 121,
+                "EndOffset": 123
+            },
+            {
+                "Score": 0.9993875026702881,
+                "Type": "QUANTITY",
+                "Text": "15",
+                "BeginOffset": 125,
+                "EndOffset": 127
+            },
+            {
+                "Score": 0.9972440004348755,
+                "Type": "QUANTITY",
+                "Text": "16",
+                "BeginOffset": 132,
+                "EndOffset": 134
+            },
+            {
+                "Score": 0.9995546340942383,
+                "Type": "DATE",
+                "Text": "January 19, 1977",
+                "BeginOffset": 228,
+                "EndOffset": 244
+            },
+            {
+                "Score": 0.5257660746574402,
+                "Type": "OTHER",
+                "Text": "1044",
+                "BeginOffset": 253,
+                "EndOffset": 257
+            },
+            {
+                "Score": 0.6881130933761597,
+                "Type": "QUANTITY",
+                "Text": "Page 521",
+                "BeginOffset": 259,
+                "EndOffset": 267
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3ac71401-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:04 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1160",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3ac71401-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "445058, and recorded November 14, 1985 in Book 2251,\nPage 933 as Document No.": {
+        "Entities": [
+            {
+                "Score": 0.7637667059898376,
+                "Type": "OTHER",
+                "Text": "445058",
+                "BeginOffset": 0,
+                "EndOffset": 6
+            },
+            {
+                "Score": 0.9992208480834961,
+                "Type": "DATE",
+                "Text": "November 14, 1985",
+                "BeginOffset": 21,
+                "EndOffset": 38
+            },
+            {
+                "Score": 0.5894984602928162,
+                "Type": "TITLE",
+                "Text": "Book 2251",
+                "BeginOffset": 42,
+                "EndOffset": 51
+            },
+            {
+                "Score": 0.5585548281669617,
+                "Type": "OTHER",
+                "Text": "Page 933",
+                "BeginOffset": 53,
+                "EndOffset": 61
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3af290d6-64ba-11e8-9fe9-4f3a632b2d0c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:05 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "396",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3af290d6-64ba-11e8-9fe9-4f3a632b2d0c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1034253 of Official Records.": {
+        "Entities": [
+            {
+                "Score": 0.5979076027870178,
+                "Type": "OTHER",
+                "Text": "1034253",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3b164549-64ba-11e8-b7c5-a333242bb969",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:05 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "105",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3b164549-64ba-11e8-b7c5-a333242bb969"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 11:\nThe East 78 feet of Lot 9 and the East 78 feet of the North 30 feet of Lot 10 in Block A of the ORIGINAL TOWN, NOW CITY OF RENO, according to the Official Map thereof, filed in the office of the County Recorder of\nWashoe County, State of Nevada, on June 27, 1871.": {
+        "Entities": [
+            {
+                "Score": 0.937597393989563,
+                "Type": "QUANTITY",
+                "Text": "78 feet",
+                "BeginOffset": 20,
+                "EndOffset": 27
+            },
+            {
+                "Score": 0.8285446166992188,
+                "Type": "QUANTITY",
+                "Text": "Lot 9",
+                "BeginOffset": 31,
+                "EndOffset": 36
+            },
+            {
+                "Score": 0.981036901473999,
+                "Type": "QUANTITY",
+                "Text": "78 feet",
+                "BeginOffset": 50,
+                "EndOffset": 57
+            },
+            {
+                "Score": 0.5660099983215332,
+                "Type": "LOCATION",
+                "Text": "North 30",
+                "BeginOffset": 65,
+                "EndOffset": 73
+            },
+            {
+                "Score": 0.7697400450706482,
+                "Type": "LOCATION",
+                "Text": "Lot 10",
+                "BeginOffset": 82,
+                "EndOffset": 88
+            },
+            {
+                "Score": 0.6402513980865479,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 92,
+                "EndOffset": 99
+            },
+            {
+                "Score": 0.6788831949234009,
+                "Type": "LOCATION",
+                "Text": "County Recorder of\nWashoe County",
+                "BeginOffset": 206,
+                "EndOffset": 238
+            },
+            {
+                "Score": 0.9278221130371094,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 240,
+                "EndOffset": 255
+            },
+            {
+                "Score": 0.9996098279953003,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 260,
+                "EndOffset": 273
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3b408a31-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:05 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "917",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3b408a31-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Together with that portion of the vacated alley lying Southerly of the Southerly\nline of West Fifth Street and Westerly of the Westerly line of North Sierra Street adjoining said Lot 9 at its most Northeasterly corner.": {
+        "Entities": [
+            {
+                "Score": 0.7879418134689331,
+                "Type": "LOCATION",
+                "Text": "Southerly of the Southerly\nline",
+                "BeginOffset": 54,
+                "EndOffset": 85
+            },
+            {
+                "Score": 0.9703388810157776,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 89,
+                "EndOffset": 106
+            },
+            {
+                "Score": 0.7959181666374207,
+                "Type": "LOCATION",
+                "Text": "Westerly of the Westerly line",
+                "BeginOffset": 111,
+                "EndOffset": 140
+            },
+            {
+                "Score": 0.9901659488677979,
+                "Type": "LOCATION",
+                "Text": "North Sierra Street",
+                "BeginOffset": 144,
+                "EndOffset": 163
+            },
+            {
+                "Score": 0.6973994374275208,
+                "Type": "LOCATION",
+                "Text": "Lot 9",
+                "BeginOffset": 179,
+                "EndOffset": 184
+            },
+            {
+                "Score": 0.409543514251709,
+                "Type": "LOCATION",
+                "Text": "Northeasterly",
+                "BeginOffset": 197,
+                "EndOffset": 210
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3b6bb8f4-64ba-11e8-82be-e77aa3eb5e33",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:05 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "671",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3b6bb8f4-64ba-11e8-82be-e77aa3eb5e33"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 12:.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3b938c0b-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:06 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3b938c0b-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "A portion of the Southwest 1/4 of the Northeast 1/4 of Section 11, Township 19 North, Range 19 East, M.D.B&M., lying and being\nin the City of Reno, County of Washoe, State of Nevada, and more particularly described as follows:\nThe Westerly 74 feet of Lot 9 and the\nWesterly 74 feet of the North 30 feet of Lot 10, all in Block A of the ORIGINAL TOWN, NOW CITY OF RENO, according to the official map thereof, filed in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871..\nPARCEL 13:\nBEGINNING at the Northeast\ncorner of Lot 8, Block A, as shown on the official plat of the town, now City of Reno, Nevada, filed in the office of the County Recorder of Washoe County, Nevada, on June 27, 1871; thence Southerly along the Easterly lines of Lots 8 and 7 of\nsaid Block A to the Southeast corner of Lot 7; thence Westerly along the Southerly line of Lot 7 and the Southerly line of Lot 7 projected to its intersection with the Easterly line of West Street; thence Northerly along the Easterly line of West\nStreet to the Southerly line of West Fifth Street; thence Easterly along the Southerly line of West Fifth Street to the point of beginning.": {
+        "Entities": [
+            {
+                "Score": 0.3237617611885071,
+                "Type": "ORGANIZATION",
+                "Text": "Southwest",
+                "BeginOffset": 17,
+                "EndOffset": 26
+            },
+            {
+                "Score": 0.7807685136795044,
+                "Type": "QUANTITY",
+                "Text": "1/4",
+                "BeginOffset": 27,
+                "EndOffset": 30
+            },
+            {
+                "Score": 0.82178795337677,
+                "Type": "QUANTITY",
+                "Text": "1/4",
+                "BeginOffset": 48,
+                "EndOffset": 51
+            },
+            {
+                "Score": 0.5761083960533142,
+                "Type": "TITLE",
+                "Text": "Section 11",
+                "BeginOffset": 55,
+                "EndOffset": 65
+            },
+            {
+                "Score": 0.9330013394355774,
+                "Type": "LOCATION",
+                "Text": "Township 19 North, Range 19 East, M.D.B&M.",
+                "BeginOffset": 67,
+                "EndOffset": 109
+            },
+            {
+                "Score": 0.7752403020858765,
+                "Type": "LOCATION",
+                "Text": "City of Reno",
+                "BeginOffset": 134,
+                "EndOffset": 146
+            },
+            {
+                "Score": 0.8401517271995544,
+                "Type": "LOCATION",
+                "Text": "County of Washoe",
+                "BeginOffset": 148,
+                "EndOffset": 164
+            },
+            {
+                "Score": 0.8940524458885193,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 166,
+                "EndOffset": 181
+            },
+            {
+                "Score": 0.3452453315258026,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 231,
+                "EndOffset": 239
+            },
+            {
+                "Score": 0.90113765001297,
+                "Type": "QUANTITY",
+                "Text": "74 feet",
+                "BeginOffset": 240,
+                "EndOffset": 247
+            },
+            {
+                "Score": 0.8543129563331604,
+                "Type": "LOCATION",
+                "Text": "Lot 9",
+                "BeginOffset": 251,
+                "EndOffset": 256
+            },
+            {
+                "Score": 0.8173100352287292,
+                "Type": "LOCATION",
+                "Text": "Westerly 74 feet of the North 30 feet of Lot 10",
+                "BeginOffset": 265,
+                "EndOffset": 312
+            },
+            {
+                "Score": 0.8962878584861755,
+                "Type": "LOCATION",
+                "Text": "Block A of the ORIGINAL TOWN, NOW CITY OF RENO",
+                "BeginOffset": 321,
+                "EndOffset": 367
+            },
+            {
+                "Score": 0.9036999344825745,
+                "Type": "LOCATION",
+                "Text": "County Recorder of Washoe County, State of Nevada",
+                "BeginOffset": 435,
+                "EndOffset": 484
+            },
+            {
+                "Score": 0.9996888637542725,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 489,
+                "EndOffset": 502
+            },
+            {
+                "Score": 0.6950865387916565,
+                "Type": "OTHER",
+                "Text": "PARCEL 13",
+                "BeginOffset": 505,
+                "EndOffset": 514
+            },
+            {
+                "Score": 0.5025256872177124,
+                "Type": "LOCATION",
+                "Text": "Northeast\ncorner",
+                "BeginOffset": 533,
+                "EndOffset": 549
+            },
+            {
+                "Score": 0.7288795113563538,
+                "Type": "LOCATION",
+                "Text": "Lot 8",
+                "BeginOffset": 553,
+                "EndOffset": 558
+            },
+            {
+                "Score": 0.9251353740692139,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 560,
+                "EndOffset": 567
+            },
+            {
+                "Score": 0.9371367692947388,
+                "Type": "LOCATION",
+                "Text": "City of Reno, Nevada",
+                "BeginOffset": 616,
+                "EndOffset": 636
+            },
+            {
+                "Score": 0.9318749308586121,
+                "Type": "LOCATION",
+                "Text": "County Recorder of Washoe County, Nevada",
+                "BeginOffset": 665,
+                "EndOffset": 705
+            },
+            {
+                "Score": 0.9998073577880859,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 710,
+                "EndOffset": 723
+            },
+            {
+                "Score": 0.569701075553894,
+                "Type": "LOCATION",
+                "Text": "Southerly",
+                "BeginOffset": 732,
+                "EndOffset": 741
+            },
+            {
+                "Score": 0.5442765951156616,
+                "Type": "LOCATION",
+                "Text": "Easterly lines",
+                "BeginOffset": 752,
+                "EndOffset": 766
+            },
+            {
+                "Score": 0.8476606011390686,
+                "Type": "LOCATION",
+                "Text": "Lots 8",
+                "BeginOffset": 770,
+                "EndOffset": 776
+            },
+            {
+                "Score": 0.3771165609359741,
+                "Type": "DATE",
+                "Text": "7",
+                "BeginOffset": 781,
+                "EndOffset": 782
+            },
+            {
+                "Score": 0.7955129742622375,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 791,
+                "EndOffset": 798
+            },
+            {
+                "Score": 0.9073654413223267,
+                "Type": "LOCATION",
+                "Text": "Lot 7",
+                "BeginOffset": 826,
+                "EndOffset": 831
+            },
+            {
+                "Score": 0.9999797344207764,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 840,
+                "EndOffset": 848
+            },
+            {
+                "Score": 0.9993860125541687,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 859,
+                "EndOffset": 873
+            },
+            {
+                "Score": 0.8838420510292053,
+                "Type": "LOCATION",
+                "Text": "Lot 7",
+                "BeginOffset": 877,
+                "EndOffset": 882
+            },
+            {
+                "Score": 0.9985615611076355,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 891,
+                "EndOffset": 905
+            },
+            {
+                "Score": 0.8905751705169678,
+                "Type": "LOCATION",
+                "Text": "Lot 7",
+                "BeginOffset": 909,
+                "EndOffset": 914
+            },
+            {
+                "Score": 0.9995299577713013,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 954,
+                "EndOffset": 967
+            },
+            {
+                "Score": 0.7696543335914612,
+                "Type": "LOCATION",
+                "Text": "West Street",
+                "BeginOffset": 971,
+                "EndOffset": 982
+            },
+            {
+                "Score": 0.9999932050704956,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 991,
+                "EndOffset": 1000
+            },
+            {
+                "Score": 0.9994558691978455,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 1011,
+                "EndOffset": 1024
+            },
+            {
+                "Score": 0.8241248726844788,
+                "Type": "LOCATION",
+                "Text": "West\nStreet",
+                "BeginOffset": 1028,
+                "EndOffset": 1039
+            },
+            {
+                "Score": 0.9993325471878052,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 1047,
+                "EndOffset": 1061
+            },
+            {
+                "Score": 0.9337014555931091,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 1065,
+                "EndOffset": 1082
+            },
+            {
+                "Score": 0.9999784231185913,
+                "Type": "LOCATION",
+                "Text": "Easterly",
+                "BeginOffset": 1091,
+                "EndOffset": 1099
+            },
+            {
+                "Score": 0.9986242651939392,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 1110,
+                "EndOffset": 1124
+            },
+            {
+                "Score": 0.9155147671699524,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 1128,
+                "EndOffset": 1145
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3bb85240-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:06 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "4529",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3bb85240-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 14:.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3bfc1172-64ba-11e8-a382-a758c652bc2c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:06 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3bfc1172-64ba-11e8-a382-a758c652bc2c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Lots 1, 2, 3, 4, 5, 6, in Block A, of ORIGINAL TOWN, NOW CITY OF RENO, according to the map thereof, filed in the office of the County\nRecorder of Washoe County, State of Nevada, on June 27, 1871, together with that parcel immediately adjoining Lots 5 and 6 on the West, that is more particularly described as follows:.": {
+        "Entities": [
+            {
+                "Score": 0.6771374940872192,
+                "Type": "QUANTITY",
+                "Text": "1",
+                "BeginOffset": 5,
+                "EndOffset": 6
+            },
+            {
+                "Score": 0.9989870190620422,
+                "Type": "QUANTITY",
+                "Text": "2",
+                "BeginOffset": 8,
+                "EndOffset": 9
+            },
+            {
+                "Score": 0.9996812343597412,
+                "Type": "QUANTITY",
+                "Text": "3",
+                "BeginOffset": 11,
+                "EndOffset": 12
+            },
+            {
+                "Score": 0.9997532963752747,
+                "Type": "QUANTITY",
+                "Text": "4",
+                "BeginOffset": 14,
+                "EndOffset": 15
+            },
+            {
+                "Score": 0.9994951486587524,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 17,
+                "EndOffset": 18
+            },
+            {
+                "Score": 0.9996078610420227,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 20,
+                "EndOffset": 21
+            },
+            {
+                "Score": 0.9190558195114136,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 147,
+                "EndOffset": 160
+            },
+            {
+                "Score": 0.8174935579299927,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 162,
+                "EndOffset": 177
+            },
+            {
+                "Score": 0.9995640516281128,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 182,
+                "EndOffset": 195
+            },
+            {
+                "Score": 0.8812025785446167,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 250,
+                "EndOffset": 251
+            },
+            {
+                "Score": 0.9970167875289917,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 256,
+                "EndOffset": 257
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3c2b5f20-64ba-11e8-a840-d386fa1007c0",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:07 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1045",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3c2b5f20-64ba-11e8-a840-d386fa1007c0"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-3-\t  \tLegal Description.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3c5aac33-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:07 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3c5aac33-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "BEGINNING at the Northeasterly corner of Lot 6, in Block A of ORIGINAL TOWN, NOW CITY OF RENO, according\nto the map thereof, filed in the office of the County Recorder of Washoe County, State of Nevada, on June 27, 1871; thence Southerly along the Easterly line of said Lots 5 and 6, in Block A, 100 feet to the Southeasterly corner thereof; thence\nWesterly along the Southerly line of said Lot 5 and the Southerly line of Lot 5 extended Westerly to the Easterly line of West Street, as now located in the City of Reno, a distance of 140 feet; thence Northerly along the Easterly line of West\nStreet 100 feet to a point which would be intersected by a line extended Westerly from the Northeasterly corner of said Lot 6 and along the Northerly line of said Lot 6; thence Easterly and along said line and the Northerly line of said Lot 6, a\ndistance of 140 feet to the Northeasterly corner of said Lot 6, the point of beginning; said premises being Lots 5 and 6 in Block A of the TOWN OF RENO, according to the map above mentioned, and that portion of the 40 foot alley around the Town of\nReno, according to the map above mentioned, lying Westerly of Lots 5 and 6 and East of the East line of West Street, as now located and between the Northerly and Southerly line of said Lots 5 and 6 if said lines were extended Westerly to the\nEasterly line of West Street as now located.": {
+        "Entities": [
+            {
+                "Score": 0.6372052431106567,
+                "Type": "LOCATION",
+                "Text": "Lot 6",
+                "BeginOffset": 41,
+                "EndOffset": 46
+            },
+            {
+                "Score": 0.7705920338630676,
+                "Type": "LOCATION",
+                "Text": "Block A of ORIGINAL TOWN",
+                "BeginOffset": 51,
+                "EndOffset": 75
+            },
+            {
+                "Score": 0.6489287614822388,
+                "Type": "LOCATION",
+                "Text": "NOW CITY",
+                "BeginOffset": 77,
+                "EndOffset": 85
+            },
+            {
+                "Score": 0.8352262377738953,
+                "Type": "LOCATION",
+                "Text": "RENO",
+                "BeginOffset": 89,
+                "EndOffset": 93
+            },
+            {
+                "Score": 0.732904851436615,
+                "Type": "LOCATION",
+                "Text": "County Recorder of Washoe County",
+                "BeginOffset": 152,
+                "EndOffset": 184
+            },
+            {
+                "Score": 0.9435961246490479,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 186,
+                "EndOffset": 201
+            },
+            {
+                "Score": 0.9997497797012329,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 206,
+                "EndOffset": 219
+            },
+            {
+                "Score": 0.6516353487968445,
+                "Type": "LOCATION",
+                "Text": "Southerly",
+                "BeginOffset": 228,
+                "EndOffset": 237
+            },
+            {
+                "Score": 0.7153558135032654,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 248,
+                "EndOffset": 261
+            },
+            {
+                "Score": 0.5427061915397644,
+                "Type": "LOCATION",
+                "Text": "Lots 5",
+                "BeginOffset": 270,
+                "EndOffset": 276
+            },
+            {
+                "Score": 0.5270346999168396,
+                "Type": "LOCATION",
+                "Text": "6",
+                "BeginOffset": 281,
+                "EndOffset": 282
+            },
+            {
+                "Score": 0.9633163809776306,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 287,
+                "EndOffset": 294
+            },
+            {
+                "Score": 0.9812444448471069,
+                "Type": "QUANTITY",
+                "Text": "100 feet",
+                "BeginOffset": 296,
+                "EndOffset": 304
+            },
+            {
+                "Score": 0.6126370429992676,
+                "Type": "LOCATION",
+                "Text": "Southeasterly corner",
+                "BeginOffset": 312,
+                "EndOffset": 332
+            },
+            {
+                "Score": 0.9238277077674866,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 349,
+                "EndOffset": 357
+            },
+            {
+                "Score": 0.8184463381767273,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 368,
+                "EndOffset": 382
+            },
+            {
+                "Score": 0.6549275517463684,
+                "Type": "LOCATION",
+                "Text": "Lot 5",
+                "BeginOffset": 391,
+                "EndOffset": 396
+            },
+            {
+                "Score": 0.6962465047836304,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 405,
+                "EndOffset": 419
+            },
+            {
+                "Score": 0.8899537324905396,
+                "Type": "LOCATION",
+                "Text": "Lot 5",
+                "BeginOffset": 423,
+                "EndOffset": 428
+            },
+            {
+                "Score": 0.7807291746139526,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 438,
+                "EndOffset": 446
+            },
+            {
+                "Score": 0.7086597084999084,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 454,
+                "EndOffset": 467
+            },
+            {
+                "Score": 0.998338520526886,
+                "Type": "LOCATION",
+                "Text": "West Street",
+                "BeginOffset": 471,
+                "EndOffset": 482
+            },
+            {
+                "Score": 0.9379812479019165,
+                "Type": "LOCATION",
+                "Text": "City of Reno",
+                "BeginOffset": 506,
+                "EndOffset": 518
+            },
+            {
+                "Score": 0.9407761693000793,
+                "Type": "QUANTITY",
+                "Text": "140 feet",
+                "BeginOffset": 534,
+                "EndOffset": 542
+            },
+            {
+                "Score": 0.8094408512115479,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 551,
+                "EndOffset": 560
+            },
+            {
+                "Score": 0.6548283100128174,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 571,
+                "EndOffset": 584
+            },
+            {
+                "Score": 0.9681360721588135,
+                "Type": "LOCATION",
+                "Text": "West\nStreet",
+                "BeginOffset": 588,
+                "EndOffset": 599
+            },
+            {
+                "Score": 0.9611886739730835,
+                "Type": "QUANTITY",
+                "Text": "100 feet",
+                "BeginOffset": 600,
+                "EndOffset": 608
+            },
+            {
+                "Score": 0.9156134724617004,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 666,
+                "EndOffset": 674
+            },
+            {
+                "Score": 0.6342744827270508,
+                "Type": "LOCATION",
+                "Text": "Northeasterly corner",
+                "BeginOffset": 684,
+                "EndOffset": 704
+            },
+            {
+                "Score": 0.6284133791923523,
+                "Type": "LOCATION",
+                "Text": "Lot 6",
+                "BeginOffset": 713,
+                "EndOffset": 718
+            },
+            {
+                "Score": 0.758442759513855,
+                "Type": "LOCATION",
+                "Text": "Northerly line",
+                "BeginOffset": 733,
+                "EndOffset": 747
+            },
+            {
+                "Score": 0.6433600783348083,
+                "Type": "QUANTITY",
+                "Text": "Lot 6",
+                "BeginOffset": 756,
+                "EndOffset": 761
+            },
+            {
+                "Score": 0.5023672580718994,
+                "Type": "LOCATION",
+                "Text": "Easterly",
+                "BeginOffset": 770,
+                "EndOffset": 778
+            },
+            {
+                "Score": 0.6604738831520081,
+                "Type": "LOCATION",
+                "Text": "Northerly line",
+                "BeginOffset": 807,
+                "EndOffset": 821
+            },
+            {
+                "Score": 0.7238554358482361,
+                "Type": "LOCATION",
+                "Text": "Lot 6",
+                "BeginOffset": 830,
+                "EndOffset": 835
+            },
+            {
+                "Score": 0.975008487701416,
+                "Type": "QUANTITY",
+                "Text": "140 feet",
+                "BeginOffset": 851,
+                "EndOffset": 859
+            },
+            {
+                "Score": 0.6579211950302124,
+                "Type": "LOCATION",
+                "Text": "Northeasterly corner",
+                "BeginOffset": 867,
+                "EndOffset": 887
+            },
+            {
+                "Score": 0.7010944485664368,
+                "Type": "QUANTITY",
+                "Text": "Lot 6",
+                "BeginOffset": 896,
+                "EndOffset": 901
+            },
+            {
+                "Score": 0.9999234676361084,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 952,
+                "EndOffset": 953
+            },
+            {
+                "Score": 0.976773738861084,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 958,
+                "EndOffset": 959
+            },
+            {
+                "Score": 0.9999647736549377,
+                "Type": "QUANTITY",
+                "Text": "40 foot",
+                "BeginOffset": 1054,
+                "EndOffset": 1061
+            },
+            {
+                "Score": 0.906420111656189,
+                "Type": "LOCATION",
+                "Text": "Town of\nReno",
+                "BeginOffset": 1079,
+                "EndOffset": 1091
+            },
+            {
+                "Score": 0.8799172043800354,
+                "Type": "LOCATION",
+                "Text": "Westerly of Lots 5 and 6 and East of the East line of West Street",
+                "BeginOffset": 1137,
+                "EndOffset": 1202
+            },
+            {
+                "Score": 0.9998639822006226,
+                "Type": "LOCATION",
+                "Text": "Northerly",
+                "BeginOffset": 1235,
+                "EndOffset": 1244
+            },
+            {
+                "Score": 0.8452198505401611,
+                "Type": "LOCATION",
+                "Text": "Southerly line",
+                "BeginOffset": 1249,
+                "EndOffset": 1263
+            },
+            {
+                "Score": 0.995301365852356,
+                "Type": "LOCATION",
+                "Text": "Lots 5",
+                "BeginOffset": 1272,
+                "EndOffset": 1278
+            },
+            {
+                "Score": 0.8467346429824829,
+                "Type": "DATE",
+                "Text": "6",
+                "BeginOffset": 1283,
+                "EndOffset": 1284
+            },
+            {
+                "Score": 0.999982476234436,
+                "Type": "LOCATION",
+                "Text": "Westerly",
+                "BeginOffset": 1313,
+                "EndOffset": 1321
+            },
+            {
+                "Score": 0.9965149164199829,
+                "Type": "LOCATION",
+                "Text": "Easterly line",
+                "BeginOffset": 1329,
+                "EndOffset": 1342
+            },
+            {
+                "Score": 0.8202256560325623,
+                "Type": "LOCATION",
+                "Text": "West Street",
+                "BeginOffset": 1346,
+                "EndOffset": 1357
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3c7dec22-64ba-11e8-8097-a12f7a4f2f0f",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:07 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "5218",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3c7dec22-64ba-11e8-8097-a12f7a4f2f0f"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "TOGETHER WITH the West one-half of the North-South alley running through said Block A,\nimmediately adjoining said LOTS 1, 2, 3, 4, 5 and 6 on the East, and more particularly described in those certain Orders of Abandonment recorded January 19, 1977 in Book 1044, Page 521 as Document No.": {
+        "Entities": [
+            {
+                "Score": 0.8760905861854553,
+                "Type": "QUANTITY",
+                "Text": "one-half",
+                "BeginOffset": 23,
+                "EndOffset": 31
+            },
+            {
+                "Score": 0.8168622851371765,
+                "Type": "LOCATION",
+                "Text": "North-South",
+                "BeginOffset": 39,
+                "EndOffset": 50
+            },
+            {
+                "Score": 0.8742232918739319,
+                "Type": "LOCATION",
+                "Text": "Block A",
+                "BeginOffset": 78,
+                "EndOffset": 85
+            },
+            {
+                "Score": 0.5148762464523315,
+                "Type": "QUANTITY",
+                "Text": "LOTS 1",
+                "BeginOffset": 114,
+                "EndOffset": 120
+            },
+            {
+                "Score": 0.994617760181427,
+                "Type": "QUANTITY",
+                "Text": "2",
+                "BeginOffset": 122,
+                "EndOffset": 123
+            },
+            {
+                "Score": 0.9983834028244019,
+                "Type": "QUANTITY",
+                "Text": "3",
+                "BeginOffset": 125,
+                "EndOffset": 126
+            },
+            {
+                "Score": 0.9985679388046265,
+                "Type": "QUANTITY",
+                "Text": "4",
+                "BeginOffset": 128,
+                "EndOffset": 129
+            },
+            {
+                "Score": 0.9992522597312927,
+                "Type": "QUANTITY",
+                "Text": "5",
+                "BeginOffset": 131,
+                "EndOffset": 132
+            },
+            {
+                "Score": 0.9965470433235168,
+                "Type": "QUANTITY",
+                "Text": "6",
+                "BeginOffset": 137,
+                "EndOffset": 138
+            },
+            {
+                "Score": 0.9995620846748352,
+                "Type": "DATE",
+                "Text": "January 19, 1977",
+                "BeginOffset": 232,
+                "EndOffset": 248
+            },
+            {
+                "Score": 0.630455732345581,
+                "Type": "OTHER",
+                "Text": "1044",
+                "BeginOffset": 257,
+                "EndOffset": 261
+            },
+            {
+                "Score": 0.7513999342918396,
+                "Type": "QUANTITY",
+                "Text": "Page 521",
+                "BeginOffset": 263,
+                "EndOffset": 271
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3cc7ed4e-64ba-11e8-9b22-b3e744a28e75",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:08 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1157",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3cc7ed4e-64ba-11e8-9b22-b3e744a28e75"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "445058, and recorded on\nNovember 14, 1985 in Book 2251, Page 533 as Document No.": {
+        "Entities": [
+            {
+                "Score": 0.7035354971885681,
+                "Type": "OTHER",
+                "Text": "445058",
+                "BeginOffset": 0,
+                "EndOffset": 6
+            },
+            {
+                "Score": 0.9988945126533508,
+                "Type": "DATE",
+                "Text": "November 14, 1985",
+                "BeginOffset": 24,
+                "EndOffset": 41
+            },
+            {
+                "Score": 0.6296986937522888,
+                "Type": "TITLE",
+                "Text": "Book 2251",
+                "BeginOffset": 45,
+                "EndOffset": 54
+            },
+            {
+                "Score": 0.5502360463142395,
+                "Type": "QUANTITY",
+                "Text": "Page 533",
+                "BeginOffset": 56,
+                "EndOffset": 64
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3cf601ec-64ba-11e8-8d35-db4b4de68d52",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:08 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "399",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3cf601ec-64ba-11e8-8d35-db4b4de68d52"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1034253, Official Records, Washoe County, State of Nevada.": {
+        "Entities": [
+            {
+                "Score": 0.8058552742004395,
+                "Type": "OTHER",
+                "Text": "1034253",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            },
+            {
+                "Score": 0.8369814157485962,
+                "Type": "LOCATION",
+                "Text": "Washoe County",
+                "BeginOffset": 27,
+                "EndOffset": 40
+            },
+            {
+                "Score": 0.8913894891738892,
+                "Type": "LOCATION",
+                "Text": "State of Nevada",
+                "BeginOffset": 42,
+                "EndOffset": 57
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3d1e991f-64ba-11e8-98ab-f9c1c5bd2000",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:08 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "311",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3d1e991f-64ba-11e8-98ab-f9c1c5bd2000"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 15:.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3d4337ff-64ba-11e8-9552-dd8ed656c7f8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:08 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3d4337ff-64ba-11e8-9552-dd8ed656c7f8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "All that certain 20.0 ft. wide alley connecting West Fourth Street with West Fifth Street, Reno, Nevada, lying within Block B of the\noriginal Town, now City of Reno, according to the map thereof, filed in the Office of the Washoe County Recorder on June 27, 1871, and within Block B of the Evans North Addition, according to the map thereof, filed in the office of the Washoe\nCounty Recorder on December 16, 1879.": {
+        "Entities": [
+            {
+                "Score": 0.8790482878684998,
+                "Type": "QUANTITY",
+                "Text": "20.0 ft.",
+                "BeginOffset": 17,
+                "EndOffset": 25
+            },
+            {
+                "Score": 0.9588338136672974,
+                "Type": "LOCATION",
+                "Text": "West Fourth Street",
+                "BeginOffset": 48,
+                "EndOffset": 66
+            },
+            {
+                "Score": 0.8273908495903015,
+                "Type": "LOCATION",
+                "Text": "West Fifth Street",
+                "BeginOffset": 72,
+                "EndOffset": 89
+            },
+            {
+                "Score": 0.5646969676017761,
+                "Type": "LOCATION",
+                "Text": "Reno",
+                "BeginOffset": 91,
+                "EndOffset": 95
+            },
+            {
+                "Score": 0.9996715784072876,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 97,
+                "EndOffset": 103
+            },
+            {
+                "Score": 0.6611796021461487,
+                "Type": "LOCATION",
+                "Text": "Block B",
+                "BeginOffset": 118,
+                "EndOffset": 125
+            },
+            {
+                "Score": 0.8770335912704468,
+                "Type": "LOCATION",
+                "Text": "City of Reno",
+                "BeginOffset": 152,
+                "EndOffset": 164
+            },
+            {
+                "Score": 0.951239287853241,
+                "Type": "ORGANIZATION",
+                "Text": "Office of the Washoe County Recorder",
+                "BeginOffset": 209,
+                "EndOffset": 245
+            },
+            {
+                "Score": 0.998653769493103,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 249,
+                "EndOffset": 262
+            },
+            {
+                "Score": 0.6341159343719482,
+                "Type": "OTHER",
+                "Text": "Block B",
+                "BeginOffset": 275,
+                "EndOffset": 282
+            },
+            {
+                "Score": 0.7897979021072388,
+                "Type": "LOCATION",
+                "Text": "Evans North Addition",
+                "BeginOffset": 290,
+                "EndOffset": 310
+            },
+            {
+                "Score": 0.9165286421775818,
+                "Type": "LOCATION",
+                "Text": "Washoe\nCounty Recorder",
+                "BeginOffset": 369,
+                "EndOffset": 391
+            },
+            {
+                "Score": 0.9994058609008789,
+                "Type": "DATE",
+                "Text": "December 16, 1879",
+                "BeginOffset": 395,
+                "EndOffset": 412
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3d66ec39-64ba-11e8-a276-f130d52ca39d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:09 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1369",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3d66ec39-64ba-11e8-a276-f130d52ca39d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 16:\nAll that certain 20.0 ft. wide alley lying between Lots 7, 8, 9 and 10 of Block A of the Original Town, now City of Reno, according to the map thereof, filed in the office of the Washoe County Recorder on\nJune 27, 1871..\n-4-\t  \tLegal Description.": {
+        "Entities": [
+            {
+                "Score": 0.8653795123100281,
+                "Type": "QUANTITY",
+                "Text": "20.0 ft.",
+                "BeginOffset": 28,
+                "EndOffset": 36
+            },
+            {
+                "Score": 0.7127048373222351,
+                "Type": "QUANTITY",
+                "Text": "Lots 7",
+                "BeginOffset": 62,
+                "EndOffset": 68
+            },
+            {
+                "Score": 0.9947534799575806,
+                "Type": "QUANTITY",
+                "Text": "8",
+                "BeginOffset": 70,
+                "EndOffset": 71
+            },
+            {
+                "Score": 0.9972495436668396,
+                "Type": "QUANTITY",
+                "Text": "9",
+                "BeginOffset": 73,
+                "EndOffset": 74
+            },
+            {
+                "Score": 0.7939172387123108,
+                "Type": "QUANTITY",
+                "Text": "10",
+                "BeginOffset": 79,
+                "EndOffset": 81
+            },
+            {
+                "Score": 0.7241655588150024,
+                "Type": "OTHER",
+                "Text": "Block A",
+                "BeginOffset": 85,
+                "EndOffset": 92
+            },
+            {
+                "Score": 0.933474063873291,
+                "Type": "LOCATION",
+                "Text": "Reno",
+                "BeginOffset": 127,
+                "EndOffset": 131
+            },
+            {
+                "Score": 0.8882360458374023,
+                "Type": "LOCATION",
+                "Text": "Washoe County Recorder",
+                "BeginOffset": 190,
+                "EndOffset": 212
+            },
+            {
+                "Score": 0.9983004331588745,
+                "Type": "DATE",
+                "Text": "June 27, 1871",
+                "BeginOffset": 216,
+                "EndOffset": 229
+            },
+            {
+                "Score": 0.8549156785011292,
+                "Type": "QUANTITY",
+                "Text": "4-\t  \tLegal Description",
+                "BeginOffset": 233,
+                "EndOffset": 256
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3d9527e9-64ba-11e8-82af-a5651cf9beb7",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:09 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "996",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3d9527e9-64ba-11e8-82af-a5651cf9beb7"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "PARCEL 17: (Air Rights Only)\nAll that certain piece or parcel of land located within a portion of the Northeast 1/4 of Section 11, Township 19 North, Range 19 East, M.D.B.&M.": {
+        "Entities": [
+            {
+                "Score": 0.8474007248878479,
+                "Type": "QUANTITY",
+                "Text": "1/4",
+                "BeginOffset": 112,
+                "EndOffset": 115
+            },
+            {
+                "Score": 0.6968011856079102,
+                "Type": "TITLE",
+                "Text": "Section 11",
+                "BeginOffset": 119,
+                "EndOffset": 129
+            },
+            {
+                "Score": 0.9235765337944031,
+                "Type": "LOCATION",
+                "Text": "Township 19 North, Range 19 East, M.D.B.&M.",
+                "BeginOffset": 131,
+                "EndOffset": 174
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3dc33d90-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:09 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "341",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3dc33d90-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "more particularly described as follows:\nThat certain air space located above Sierra Street commencing at an elevation of 4,521 and extending vertically 32 feet to an elevation of 4,553 feet,\nwhich height is measured from the finished floor elevation of the Silver Legacy Casino at 4,503 feet, and located directly over that certain parcel of real property described as follows:\nCommencing at the Southwest corner of Block B Reno Townsite as shown on Record-of-Survey 2665, recorded January 27, 1994,\nthence North 13\u00b048'48\" West 97.13 feet to the True Point of Beginning\nthence North 13\u00b048'48\" West 223.17 feet\nthence South 76\u00b011'12\" West 80.00 feet\nthence South 13\u00b048'48\" East 223.17 feet\nthence North 76\u00b011'12\" East 80.00 feet to the True Point of Beginning\nPARCEL 18: (Subterranean Rights Only)\nAll that certain piece or parcel of land located within a portion of the Northeast 1/4 of Section 11, Township 19 North, Range 19 East, M.D.B.&M.": {
+        "Entities": [
+            {
+                "Score": 0.9947410225868225,
+                "Type": "LOCATION",
+                "Text": "Sierra Street",
+                "BeginOffset": 77,
+                "EndOffset": 90
+            },
+            {
+                "Score": 0.991191029548645,
+                "Type": "QUANTITY",
+                "Text": "4,521",
+                "BeginOffset": 121,
+                "EndOffset": 126
+            },
+            {
+                "Score": 0.9932172894477844,
+                "Type": "QUANTITY",
+                "Text": "32 feet",
+                "BeginOffset": 152,
+                "EndOffset": 159
+            },
+            {
+                "Score": 0.9971573352813721,
+                "Type": "QUANTITY",
+                "Text": "4,553 feet",
+                "BeginOffset": 179,
+                "EndOffset": 189
+            },
+            {
+                "Score": 0.9959959387779236,
+                "Type": "QUANTITY",
+                "Text": "4,503 feet",
+                "BeginOffset": 281,
+                "EndOffset": 291
+            },
+            {
+                "Score": 0.5115387439727783,
+                "Type": "LOCATION",
+                "Text": "Southwest corner",
+                "BeginOffset": 396,
+                "EndOffset": 412
+            },
+            {
+                "Score": 0.9838376641273499,
+                "Type": "LOCATION",
+                "Text": "Block B Reno Townsite",
+                "BeginOffset": 416,
+                "EndOffset": 437
+            },
+            {
+                "Score": 0.5164446830749512,
+                "Type": "OTHER",
+                "Text": "2665",
+                "BeginOffset": 467,
+                "EndOffset": 471
+            },
+            {
+                "Score": 0.9989410042762756,
+                "Type": "DATE",
+                "Text": "January 27, 1994",
+                "BeginOffset": 482,
+                "EndOffset": 498
+            },
+            {
+                "Score": 0.8130397796630859,
+                "Type": "LOCATION",
+                "Text": "North 13\u00b048'48\" West",
+                "BeginOffset": 507,
+                "EndOffset": 527
+            },
+            {
+                "Score": 0.9738597869873047,
+                "Type": "QUANTITY",
+                "Text": "97.13 feet",
+                "BeginOffset": 528,
+                "EndOffset": 538
+            },
+            {
+                "Score": 0.8775709867477417,
+                "Type": "LOCATION",
+                "Text": "True Point of Beginning\nthence North 13\u00b048'48\" West",
+                "BeginOffset": 546,
+                "EndOffset": 597
+            },
+            {
+                "Score": 0.9020017981529236,
+                "Type": "QUANTITY",
+                "Text": "223.17 feet",
+                "BeginOffset": 598,
+                "EndOffset": 609
+            },
+            {
+                "Score": 0.8961197733879089,
+                "Type": "LOCATION",
+                "Text": "South 76\u00b011'12\" West",
+                "BeginOffset": 617,
+                "EndOffset": 637
+            },
+            {
+                "Score": 0.9119687080383301,
+                "Type": "QUANTITY",
+                "Text": "80.00 feet",
+                "BeginOffset": 638,
+                "EndOffset": 648
+            },
+            {
+                "Score": 0.903456449508667,
+                "Type": "LOCATION",
+                "Text": "South 13\u00b048'48\" East",
+                "BeginOffset": 656,
+                "EndOffset": 676
+            },
+            {
+                "Score": 0.8881362080574036,
+                "Type": "QUANTITY",
+                "Text": "223.17 feet",
+                "BeginOffset": 677,
+                "EndOffset": 688
+            },
+            {
+                "Score": 0.90261310338974,
+                "Type": "LOCATION",
+                "Text": "North 76\u00b011'12\" East",
+                "BeginOffset": 696,
+                "EndOffset": 716
+            },
+            {
+                "Score": 0.9686357378959656,
+                "Type": "QUANTITY",
+                "Text": "80.00 feet",
+                "BeginOffset": 717,
+                "EndOffset": 727
+            },
+            {
+                "Score": 0.8219279050827026,
+                "Type": "LOCATION",
+                "Text": "True Point of Beginning\nPARCEL 18",
+                "BeginOffset": 735,
+                "EndOffset": 768
+            },
+            {
+                "Score": 0.9995572566986084,
+                "Type": "LOCATION",
+                "Text": "Northeast 1",
+                "BeginOffset": 870,
+                "EndOffset": 881
+            },
+            {
+                "Score": 0.69659823179245,
+                "Type": "DATE",
+                "Text": "4",
+                "BeginOffset": 882,
+                "EndOffset": 883
+            },
+            {
+                "Score": 0.8705087304115295,
+                "Type": "TITLE",
+                "Text": "Section 11",
+                "BeginOffset": 887,
+                "EndOffset": 897
+            },
+            {
+                "Score": 0.917113184928894,
+                "Type": "LOCATION",
+                "Text": "Township 19 North, Range 19 East, M.D.B.&M.",
+                "BeginOffset": 899,
+                "EndOffset": 942
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3dee1df1-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:10 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "2572",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3dee1df1-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "more particularly described as follows:\nThat certain subterranean space located beneath Sierra Street commencing at an elevation of 4,480\nand extending vertically 20 feet to an elevation of 4,500 feet, which height is measured from the finished floor elevation of the Silver Legacy Casino at 4,503 feet, and located directly below that certain parcel of real property described as\nfollows:\nCommencing at the Southwest corner of Block B Reno Townsite as shown on Record-of -Survey 2665, recorded January 27, 1994,.\nthence North 13\u00b048'48\" West 181.05 feet to the True Point of Beginning\nthence North 13\u00b048'48\" West 24.33 feet\nthence South 76\u00b011'12\" West 80.00 feet\nthence South 13\u00b048'48\" East 24.33 feet\nthence North 76\u00b011'12\" East 80.00 feet to the True Point of Beginning.": {
+        "Entities": [
+            {
+                "Score": 0.9938527941703796,
+                "Type": "LOCATION",
+                "Text": "Sierra Street",
+                "BeginOffset": 88,
+                "EndOffset": 101
+            },
+            {
+                "Score": 0.9918048977851868,
+                "Type": "QUANTITY",
+                "Text": "4,480",
+                "BeginOffset": 132,
+                "EndOffset": 137
+            },
+            {
+                "Score": 0.9924635887145996,
+                "Type": "QUANTITY",
+                "Text": "20 feet",
+                "BeginOffset": 163,
+                "EndOffset": 170
+            },
+            {
+                "Score": 0.9938074946403503,
+                "Type": "QUANTITY",
+                "Text": "4,500 feet",
+                "BeginOffset": 190,
+                "EndOffset": 200
+            },
+            {
+                "Score": 0.9957824349403381,
+                "Type": "QUANTITY",
+                "Text": "4,503 feet",
+                "BeginOffset": 292,
+                "EndOffset": 302
+            },
+            {
+                "Score": 0.5093914270401001,
+                "Type": "LOCATION",
+                "Text": "Southwest corner",
+                "BeginOffset": 408,
+                "EndOffset": 424
+            },
+            {
+                "Score": 0.9842365980148315,
+                "Type": "LOCATION",
+                "Text": "Block B Reno Townsite",
+                "BeginOffset": 428,
+                "EndOffset": 449
+            },
+            {
+                "Score": 0.4859105944633484,
+                "Type": "OTHER",
+                "Text": "2665",
+                "BeginOffset": 480,
+                "EndOffset": 484
+            },
+            {
+                "Score": 0.9986321926116943,
+                "Type": "DATE",
+                "Text": "January 27, 1994",
+                "BeginOffset": 495,
+                "EndOffset": 511
+            },
+            {
+                "Score": 0.8428699970245361,
+                "Type": "LOCATION",
+                "Text": "North 13\u00b048'48\" West",
+                "BeginOffset": 521,
+                "EndOffset": 541
+            },
+            {
+                "Score": 0.98508220911026,
+                "Type": "QUANTITY",
+                "Text": "181.05 feet",
+                "BeginOffset": 542,
+                "EndOffset": 553
+            },
+            {
+                "Score": 0.8919723033905029,
+                "Type": "LOCATION",
+                "Text": "True Point of Beginning\nthence North 13\u00b048'48\" West",
+                "BeginOffset": 561,
+                "EndOffset": 612
+            },
+            {
+                "Score": 0.9531173706054688,
+                "Type": "QUANTITY",
+                "Text": "24.33 feet",
+                "BeginOffset": 613,
+                "EndOffset": 623
+            },
+            {
+                "Score": 0.8888934254646301,
+                "Type": "LOCATION",
+                "Text": "South 76\u00b011'12\" West",
+                "BeginOffset": 631,
+                "EndOffset": 651
+            },
+            {
+                "Score": 0.9143310189247131,
+                "Type": "QUANTITY",
+                "Text": "80.00 feet",
+                "BeginOffset": 652,
+                "EndOffset": 662
+            },
+            {
+                "Score": 0.9195024371147156,
+                "Type": "LOCATION",
+                "Text": "South 13\u00b048'48\" East",
+                "BeginOffset": 670,
+                "EndOffset": 690
+            },
+            {
+                "Score": 0.9557218551635742,
+                "Type": "QUANTITY",
+                "Text": "24.33 feet",
+                "BeginOffset": 691,
+                "EndOffset": 701
+            },
+            {
+                "Score": 0.9015934467315674,
+                "Type": "LOCATION",
+                "Text": "North 76\u00b011'12\" East",
+                "BeginOffset": 709,
+                "EndOffset": 729
+            },
+            {
+                "Score": 0.9668228626251221,
+                "Type": "QUANTITY",
+                "Text": "80.00 feet",
+                "BeginOffset": 730,
+                "EndOffset": 740
+            },
+            {
+                "Score": 0.9501007199287415,
+                "Type": "LOCATION",
+                "Text": "True Point of Beginning",
+                "BeginOffset": 748,
+                "EndOffset": 771
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3e2c5f2f-64ba-11e8-a905-d33efc07334a",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:10 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "2143",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3e2c5f2f-64ba-11e8-a905-d33efc07334a"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-5-\t  \tLegal Description.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3e654924-64ba-11e8-a6a7-f39f08b56c96",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:10 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3e654924-64ba-11e8-a6a7-f39f08b56c96"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "EXCEPTING THEREFROM the above Parcels 1 through 18, all those certain parcels as conveyed to THE CITY OF\nRENO, a Nevada municipal corporation, by Deed of Dedication recorded March 9, 1995 in Book 4259, Page 956 as Document No.": {
+        "Entities": [
+            {
+                "Score": 0.769529402256012,
+                "Type": "QUANTITY",
+                "Text": "1",
+                "BeginOffset": 38,
+                "EndOffset": 39
+            },
+            {
+                "Score": 0.997548520565033,
+                "Type": "QUANTITY",
+                "Text": "18",
+                "BeginOffset": 48,
+                "EndOffset": 50
+            },
+            {
+                "Score": 0.5161057114601135,
+                "Type": "LOCATION",
+                "Text": "RENO",
+                "BeginOffset": 105,
+                "EndOffset": 109
+            },
+            {
+                "Score": 0.9557817578315735,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 113,
+                "EndOffset": 119
+            },
+            {
+                "Score": 0.999186098575592,
+                "Type": "DATE",
+                "Text": "March 9, 1995",
+                "BeginOffset": 174,
+                "EndOffset": 187
+            },
+            {
+                "Score": 0.5939784646034241,
+                "Type": "LOCATION",
+                "Text": "Book 4259",
+                "BeginOffset": 191,
+                "EndOffset": 200
+            },
+            {
+                "Score": 0.7623587250709534,
+                "Type": "LOCATION",
+                "Text": "Page 956",
+                "BeginOffset": 202,
+                "EndOffset": 210
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3e8a0f89-64ba-11e8-a140-0d257cca49e9",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:11 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "684",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3e8a0f89-64ba-11e8-a140-0d257cca49e9"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1876631 of Official Records, and as amended by Deed of Dedication recorded May 5, 1995 in Book 4297, Page 667 as\nDocument No.": {
+        "Entities": [
+            {
+                "Score": 0.2471700757741928,
+                "Type": "OTHER",
+                "Text": "1876631",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            },
+            {
+                "Score": 0.9992048144340515,
+                "Type": "DATE",
+                "Text": "May 5, 1995",
+                "BeginOffset": 75,
+                "EndOffset": 86
+            },
+            {
+                "Score": 0.5592626929283142,
+                "Type": "TITLE",
+                "Text": "Book 4297",
+                "BeginOffset": 90,
+                "EndOffset": 99
+            },
+            {
+                "Score": 0.6960916519165039,
+                "Type": "QUANTITY",
+                "Text": "Page 667",
+                "BeginOffset": 101,
+                "EndOffset": 109
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3eb4c8fe-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:11 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "396",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3eb4c8fe-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1891266 of Official Records.": {
+        "Entities": [
+            {
+                "Score": 0.4849912226200104,
+                "Type": "OTHER",
+                "Text": "1891266",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3edc278b-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:11 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "105",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3edc278b-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Part II:\nPARCEL 19:\nTogether with the reciprocal easement rights, as contained in those certain Bridge Easements dated May 25,\n1995 by and between CIRCUS AND ELDORADO JOINT VENTURE, a Nevada general partnership and CIRCUS CIRCUS CASINO, INC., a Nevada corporation and ELDORADO HOTEL ASSOCIATES LIMITED PARTNERSHIP, a Nevada limited partnership, recorded May 31, 1995 as\nDocument Numbers 1897109 and 1897108 of Official Records, Washoe County, Nevada.": {
+        "Entities": [
+            {
+                "Score": 0.7203441858291626,
+                "Type": "TITLE",
+                "Text": "Part II:\nPARCEL 19",
+                "BeginOffset": 0,
+                "EndOffset": 18
+            },
+            {
+                "Score": 0.9995033740997314,
+                "Type": "DATE",
+                "Text": "May 25,\n1995",
+                "BeginOffset": 119,
+                "EndOffset": 131
+            },
+            {
+                "Score": 0.9218159317970276,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 184,
+                "EndOffset": 190
+            },
+            {
+                "Score": 0.8486936688423157,
+                "Type": "ORGANIZATION",
+                "Text": "CIRCUS CIRCUS CASINO, INC.",
+                "BeginOffset": 215,
+                "EndOffset": 241
+            },
+            {
+                "Score": 0.9670748114585876,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 245,
+                "EndOffset": 251
+            },
+            {
+                "Score": 0.8419378995895386,
+                "Type": "ORGANIZATION",
+                "Text": "ELDORADO HOTEL ASSOCIATES LIMITED PARTNERSHIP",
+                "BeginOffset": 268,
+                "EndOffset": 313
+            },
+            {
+                "Score": 0.9594623446464539,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 317,
+                "EndOffset": 323
+            },
+            {
+                "Score": 0.9991729259490967,
+                "Type": "DATE",
+                "Text": "May 31, 1995",
+                "BeginOffset": 354,
+                "EndOffset": 366
+            },
+            {
+                "Score": 0.8673596382141113,
+                "Type": "OTHER",
+                "Text": "1897109",
+                "BeginOffset": 387,
+                "EndOffset": 394
+            },
+            {
+                "Score": 0.9719455242156982,
+                "Type": "OTHER",
+                "Text": "1897108",
+                "BeginOffset": 399,
+                "EndOffset": 406
+            },
+            {
+                "Score": 0.9411619901657104,
+                "Type": "LOCATION",
+                "Text": "Washoe County, Nevada",
+                "BeginOffset": 428,
+                "EndOffset": 449
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3f08dce0-64ba-11e8-b182-f747b2e2a806",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:12 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "1173",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3f08dce0-64ba-11e8-b182-f747b2e2a806"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "NOTE: The above metes and bounds description appeared previously in that\ncertain document recorded October 26, 1994, in Book 4179, Page 844, as Instrument No.": {
+        "Entities": [
+            {
+                "Score": 0.9993135929107666,
+                "Type": "DATE",
+                "Text": "October 26, 1994",
+                "BeginOffset": 99,
+                "EndOffset": 115
+            },
+            {
+                "Score": 0.5733951926231384,
+                "Type": "OTHER",
+                "Text": "Book 4179",
+                "BeginOffset": 120,
+                "EndOffset": 129
+            },
+            {
+                "Score": 0.93626469373703,
+                "Type": "OTHER",
+                "Text": "Page 844",
+                "BeginOffset": 131,
+                "EndOffset": 139
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3f3a9b4f-64ba-11e8-82be-e77aa3eb5e33",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:12 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "308",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3f3a9b4f-64ba-11e8-82be-e77aa3eb5e33"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1844158.": {
+        "Entities": [
+            {
+                "Score": 0.7386496067047119,
+                "Type": "OTHER",
+                "Text": "1844158",
+                "BeginOffset": 0,
+                "EndOffset": 7
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "3f67c5bc-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:12 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "105",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3f67c5bc-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "-6-\t  \tLegal Description.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "3f953dcd-64ba-11e8-a382-a758c652bc2c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:06:12 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "3f953dcd-64ba-11e8-a382-a758c652bc2c"
+            },
+            "RetryAttempts": 0
+        }
+    }
+}

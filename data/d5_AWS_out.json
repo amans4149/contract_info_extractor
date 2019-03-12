@@ -1,0 +1,309 @@
+{
+    "Exhibit 10.22\nSupplemental Processing Agreement\nClient (hereafter \u201cParty A\u201d):\tHenan Jianyida Industrial Co., Ltd..": {
+        "Entities": [
+            {
+                "Score": 0.900917649269104,
+                "Type": "QUANTITY",
+                "Text": "10.22",
+                "BeginOffset": 8,
+                "EndOffset": 13
+            },
+            {
+                "Score": 0.8662814497947693,
+                "Type": "ORGANIZATION",
+                "Text": "Henan Jianyida Industrial Co., Ltd",
+                "BeginOffset": 78,
+                "EndOffset": 112
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bdd0002c-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:44 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "234",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bdd0002c-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Contractor (hereafter \u201cParty B\u201d):\tZhongping Energy & Chemical Group Hongrui New Construction Materials Co., Ltd..\nBased on negotiations, the parties hereby supplement\nthe Processing Agreement they entered into on January 8, 2011, as follows:.": {
+        "Entities": [
+            {
+                "Score": 0.5899022817611694,
+                "Type": "ORGANIZATION",
+                "Text": "Zhongping Energy",
+                "BeginOffset": 34,
+                "EndOffset": 50
+            },
+            {
+                "Score": 0.9983248114585876,
+                "Type": "DATE",
+                "Text": "January 8, 2011",
+                "BeginOffset": 213,
+                "EndOffset": 228
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bdf6c1dd-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:44 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "225",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bdf6c1dd-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "1.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "be2154bf-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:45 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "be2154bf-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "On the basis of the above referenced Processing Agreement, the term is extended for one year from\nMarch 1, 2015 to March 1, 2016.": {
+        "Entities": [
+            {
+                "Score": 0.9636054635047913,
+                "Type": "QUANTITY",
+                "Text": "one year",
+                "BeginOffset": 84,
+                "EndOffset": 92
+            },
+            {
+                "Score": 0.9988018870353699,
+                "Type": "DATE",
+                "Text": "March 1, 2015",
+                "BeginOffset": 98,
+                "EndOffset": 111
+            },
+            {
+                "Score": 0.9989690184593201,
+                "Type": "DATE",
+                "Text": "March 1, 2016",
+                "BeginOffset": 115,
+                "EndOffset": 128
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "be444596-64ba-11e8-85bf-735025c7419d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:45 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "310",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "be444596-64ba-11e8-85bf-735025c7419d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "2.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "be789bb7-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:45 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "be789bb7-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "All other terms of the Processing Agreement shall remain in effect from the execution of this Supplemental\nAgreement.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "be9ec1c6-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:46 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "be9ec1c6-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "3.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bec92d89-64ba-11e8-b853-851a6a12faa2",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:46 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bec92d89-64ba-11e8-b853-851a6a12faa2"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "This Agreement is executed into two original duplicates.": {
+        "Entities": [
+            {
+                "Score": 0.8246790170669556,
+                "Type": "QUANTITY",
+                "Text": "two original duplicates",
+                "BeginOffset": 32,
+                "EndOffset": 55
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "beed08b0-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:46 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "126",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "beed08b0-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "This Agreement shall take effect upon\nexecution of authorized representatives of the parties.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bf1132a5-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:46 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bf1132a5-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Each party shall retain one duplicate.": {
+        "Entities": [
+            {
+                "Score": 0.8525977730751038,
+                "Type": "QUANTITY",
+                "Text": "Each party",
+                "BeginOffset": 0,
+                "EndOffset": 10
+            },
+            {
+                "Score": 0.7165862321853638,
+                "Type": "QUANTITY",
+                "Text": "one duplicate",
+                "BeginOffset": 24,
+                "EndOffset": 37
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bf36bc77-64ba-11e8-a382-a758c652bc2c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:46 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "214",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bf36bc77-64ba-11e8-a382-a758c652bc2c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "4.": {
+        "Entities": [
+            {
+                "Score": 0.5382757186889648,
+                "Type": "QUANTITY",
+                "Text": "4",
+                "BeginOffset": 0,
+                "EndOffset": 1
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bf5a7117-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:47 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "102",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bf5a7117-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The parties shall negotiate to resolve any unsettled matters.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bf7ee885-64ba-11e8-8097-a12f7a4f2f0f",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:47 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bf7ee885-64ba-11e8-8097-a12f7a4f2f0f"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Party A: [Seal] \t\u00a0\tParty B: [Seal]\nSignature: /s/ Hui Li\t\u00a0\tSignature: /s/ Qimin Cheng\nDate: February 25, 2015 \t\u00a0\tDate: February 25, 2015": {
+        "Entities": [
+            {
+                "Score": 0.810958206653595,
+                "Type": "PERSON",
+                "Text": "Hui Li",
+                "BeginOffset": 50,
+                "EndOffset": 56
+            },
+            {
+                "Score": 0.865463376045227,
+                "Type": "PERSON",
+                "Text": "Qimin Cheng",
+                "BeginOffset": 74,
+                "EndOffset": 85
+            },
+            {
+                "Score": 0.9995923042297363,
+                "Type": "DATE",
+                "Text": "February 25, 2015",
+                "BeginOffset": 92,
+                "EndOffset": 109
+            },
+            {
+                "Score": 0.9996268153190613,
+                "Type": "DATE",
+                "Text": "February 25, 2015",
+                "BeginOffset": 119,
+                "EndOffset": 136
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bfa2c431-64ba-11e8-b77f-3bac79b6d182",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:47 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "410",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bfa2c431-64ba-11e8-b77f-3bac79b6d182"
+            },
+            "RetryAttempts": 0
+        }
+    }
+}

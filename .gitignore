@@ -1,0 +1,50 @@
+.DS_Store
+
+# Ignore saved models
+*.dill
+*.pkl 
+*/.floyd*
+
+# Ignore log files
+*.log*
+
+# Ignore pycache and build directories
+build/
+dist/
+__pycache__
+
+# Ignore downloaded datasets
+embeddings/data/
+embeddings/text8.zip
+face_generation/data/
+
+.ipynb_checkpoints/
+*.egg-info
+
+*.pyc
+*.p
+
+*/bin
+
+## Java build ignore
+target/
+## Eclipse IDE
+
+.project
+.classpath
+.settings/
+.metadata
+*.tmp
+*.bak
+*.swp
+local.properties
+.externalToolBuilders/
+*.launch
+
+# Intellij Idea
+
+.idea
+*.iml
+*.ipr
+*.iws
+

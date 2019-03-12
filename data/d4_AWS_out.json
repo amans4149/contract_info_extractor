@@ -1,0 +1,885 @@
+{
+    ".": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b72fd554-64ba-11e8-a70e-73a9ffead135",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:33 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b72fd554-64ba-11e8-a70e-73a9ffead135"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "ppci8k031216.htm.": {
+        "Entities": [
+            {
+                "Score": 0.7947898507118225,
+                "Type": "ORGANIZATION",
+                "Text": "ppci",
+                "BeginOffset": 0,
+                "EndOffset": 4
+            },
+            {
+                "Score": 0.8989760875701904,
+                "Type": "COMMERCIAL_ITEM",
+                "Text": "8k031216.htm",
+                "BeginOffset": 4,
+                "EndOffset": 16
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b7566ff4-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:33 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "216",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b7566ff4-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "UNITED STATES.": {
+        "Entities": [
+            {
+                "Score": 0.7246338129043579,
+                "Type": "LOCATION",
+                "Text": "UNITED STATES",
+                "BeginOffset": 0,
+                "EndOffset": 13
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b7845d83-64ba-11e8-a905-d33efc07334a",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:34 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "115",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b7845d83-64ba-11e8-a905-d33efc07334a"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "SECURITIES AND EXCHANGE COMMISSION.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b7b3ab98-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:34 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b7b3ab98-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Washington, DC 20549.": {
+        "Entities": [
+            {
+                "Score": 0.8916566371917725,
+                "Type": "LOCATION",
+                "Text": "Washington, DC 20549",
+                "BeginOffset": 0,
+                "EndOffset": 20
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b7e2834e-64ba-11e8-85bf-735025c7419d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:34 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "122",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b7e2834e-64ba-11e8-85bf-735025c7419d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "FORM 8-K.\nCURRENT REPORT.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b8068678-64ba-11e8-a6a7-f39f08b56c96",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:34 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b8068678-64ba-11e8-a6a7-f39f08b56c96"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Pursuant to Section 13 or 15(d) of.": {
+        "Entities": [
+            {
+                "Score": 0.6740411520004272,
+                "Type": "TITLE",
+                "Text": "Section 13",
+                "BeginOffset": 12,
+                "EndOffset": 22
+            },
+            {
+                "Score": 0.9713628888130188,
+                "Type": "TITLE",
+                "Text": "15(d)",
+                "BeginOffset": 26,
+                "EndOffset": 31
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b830a405-64ba-11e8-9fe9-4f3a632b2d0c",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:35 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "201",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b830a405-64ba-11e8-9fe9-4f3a632b2d0c"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The Securities Exchange Act of 1934.": {
+        "Entities": [
+            {
+                "Score": 0.9973475933074951,
+                "Type": "TITLE",
+                "Text": "Securities Exchange Act of 1934",
+                "BeginOffset": 4,
+                "EndOffset": 35
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b85f7ba4-64ba-11e8-b182-f747b2e2a806",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:35 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "130",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b85f7ba4-64ba-11e8-b182-f747b2e2a806"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Date of Report (Date of earliest event reported):.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b8835728-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:35 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b8835728-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "March 12, 2016.": {
+        "Entities": [
+            {
+                "Score": 0.9990866184234619,
+                "Type": "DATE",
+                "Text": "March 12, 2016",
+                "BeginOffset": 0,
+                "EndOffset": 14
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b8a9a3fe-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:35 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "112",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b8a9a3fe-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Premier Pacific Construction, Inc..\n(Exact name of registrant as specified in its charter).": {
+        "Entities": [
+            {
+                "Score": 0.9093632102012634,
+                "Type": "ORGANIZATION",
+                "Text": "Premier Pacific Construction, Inc.",
+                "BeginOffset": 0,
+                "EndOffset": 34
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b8ccbc1e-64ba-11e8-a840-d386fa1007c0",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:36 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "140",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b8ccbc1e-64ba-11e8-a840-d386fa1007c0"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Nevada.": {
+        "Entities": [
+            {
+                "Score": 0.8449159860610962,
+                "Type": "LOCATION",
+                "Text": "Nevada",
+                "BeginOffset": 0,
+                "EndOffset": 6
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b8f1a9f1-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:36 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "107",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b8f1a9f1-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "333-192107.": {
+        "Entities": [
+            {
+                "Score": 0.9274799823760986,
+                "Type": "OTHER",
+                "Text": "333-192107",
+                "BeginOffset": 0,
+                "EndOffset": 10
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b915fa4f-64ba-11e8-8097-a12f7a4f2f0f",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:36 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "109",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b915fa4f-64ba-11e8-8097-a12f7a4f2f0f"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "90-0920687.": {
+        "Entities": [
+            {
+                "Score": 0.7688671946525574,
+                "Type": "OTHER",
+                "Text": "90-0920687",
+                "BeginOffset": 0,
+                "EndOffset": 10
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b93d5869-64ba-11e8-b77f-3bac79b6d182",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:36 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "109",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b93d5869-64ba-11e8-b77f-3bac79b6d182"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(State or other jurisdiction.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b960e5fb-64ba-11e8-b7c3-4133538cdfdb",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:37 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b960e5fb-64ba-11e8-b7c3-4133538cdfdb"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "of incorporation).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b9886b48-64ba-11e8-9552-dd8ed656c7f8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:37 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b9886b48-64ba-11e8-9552-dd8ed656c7f8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(Commission File.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b9b791e4-64ba-11e8-82af-a5651cf9beb7",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:37 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b9b791e4-64ba-11e8-82af-a5651cf9beb7"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Number).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "b9da82cd-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:37 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b9da82cd-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(IRS Employer.": {
+        "Entities": [
+            {
+                "Score": 0.7542676329612732,
+                "Type": "ORGANIZATION",
+                "Text": "IRS",
+                "BeginOffset": 1,
+                "EndOffset": 4
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "b9fe10cd-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:38 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "108",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "b9fe10cd-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Identification No.).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "ba2435f5-64ba-11e8-85bf-735025c7419d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:38 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "ba2435f5-64ba-11e8-85bf-735025c7419d"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "13103 GOLDEN WAY.": {
+        "Entities": [
+            {
+                "Score": 0.43949905037879944,
+                "Type": "QUANTITY",
+                "Text": "13103 GOLDEN",
+                "BeginOffset": 0,
+                "EndOffset": 12
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "ba53ab17-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:38 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "115",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "ba53ab17-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "POWAY,\u00a0CA\u00a0\u00a092064.": {
+        "Entities": [
+            {
+                "Score": 0.9068076610565186,
+                "Type": "LOCATION",
+                "Text": "POWAY,\u00a0CA\u00a0\u00a092064",
+                "BeginOffset": 0,
+                "EndOffset": 16
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "ba825ba5-64ba-11e8-aee1-71db07ef6e39",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:39 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "121",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "ba825ba5-64ba-11e8-aee1-71db07ef6e39"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(Address of principal executive offices, including zip code).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bab13438-64ba-11e8-b853-851a6a12faa2",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:39 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bab13438-64ba-11e8-b853-851a6a12faa2"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(858) 748-7152.": {
+        "Entities": [
+            {
+                "Score": 0.9997317790985107,
+                "Type": "OTHER",
+                "Text": "(858) 748-7152",
+                "BeginOffset": 0,
+                "EndOffset": 14
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bae03315-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:39 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "113",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bae03315-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(Registrant's telephone number, including area code).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bb0f3213-64ba-11e8-a840-d386fa1007c0",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:40 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bb0f3213-64ba-11e8-a840-d386fa1007c0"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "N/A.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bb3d2016-64ba-11e8-8097-a12f7a4f2f0f",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:40 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bb3d2016-64ba-11e8-8097-a12f7a4f2f0f"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "(Former name or former address, if changed since last report.).": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bb6d30f3-64ba-11e8-98ab-f9c1c5bd2000",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:40 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bb6d30f3-64ba-11e8-98ab-f9c1c5bd2000"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Check the appropriate box below if the Form 8-K filing is intended to simultaneously satisfy the filing obligation of the registrant under any of the following provisions (see General Instruction A.2.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bb909742-64ba-11e8-bcf3-237883846cee",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:40 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bb909742-64ba-11e8-bcf3-237883846cee"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "below):.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bbc42ad5-64ba-11e8-b9a3-dd69b286678b",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:41 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bbc42ad5-64ba-11e8-b9a3-dd69b286678b"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "o \u00a0\u00a0\u00a0Written communications pursuant to Rule 425 under the Securities Act (17 CFR 230.425).": {
+        "Entities": [
+            {
+                "Score": 0.8583179116249084,
+                "Type": "OTHER",
+                "Text": "Rule 425",
+                "BeginOffset": 40,
+                "EndOffset": 48
+            },
+            {
+                "Score": 0.9801983833312988,
+                "Type": "TITLE",
+                "Text": "Securities Act (17 CFR 230.425)",
+                "BeginOffset": 59,
+                "EndOffset": 90
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bbe80677-64ba-11e8-a6a7-f39f08b56c96",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:41 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "225",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bbe80677-64ba-11e8-a6a7-f39f08b56c96"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "o \u00a0\u00a0\u00a0Soliciting material pursuant to Rule 14a-12 under the Exchange Act (17 CFR 240.14a-12).": {
+        "Entities": [
+            {
+                "Score": 0.8799986839294434,
+                "Type": "OTHER",
+                "Text": "Rule 14a-12",
+                "BeginOffset": 37,
+                "EndOffset": 48
+            },
+            {
+                "Score": 0.9706467986106873,
+                "Type": "TITLE",
+                "Text": "Exchange Act (17 CFR 240.14a-12)",
+                "BeginOffset": 59,
+                "EndOffset": 91
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bc18b2bb-64ba-11e8-a140-0d257cca49e9",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:41 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "229",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bc18b2bb-64ba-11e8-a140-0d257cca49e9"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "o \u00a0\u00a0\u00a0Pre-commencement communications pursuant to Rule 14d-2(b) under the Exchange Act (17 CFR 240.14d-2(b)).": {
+        "Entities": [
+            {
+                "Score": 0.943515956401825,
+                "Type": "OTHER",
+                "Text": "Rule 14d-2(b)",
+                "BeginOffset": 49,
+                "EndOffset": 62
+            },
+            {
+                "Score": 0.9847424626350403,
+                "Type": "TITLE",
+                "Text": "Exchange Act (17 CFR 240.14d-2(b))",
+                "BeginOffset": 73,
+                "EndOffset": 107
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bc3ed94f-64ba-11e8-97c3-93f181c8d5d8",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:42 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "233",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bc3ed94f-64ba-11e8-97c3-93f181c8d5d8"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "o \u00a0\u00a0\u00a0Pre-commencement communications pursuant to Rule 13e-4(c) under the Exchange Act (17 CFR 240.13e-4(c)).": {
+        "Entities": [
+            {
+                "Score": 0.9262771010398865,
+                "Type": "OTHER",
+                "Text": "Rule 13e-4(c)",
+                "BeginOffset": 49,
+                "EndOffset": 62
+            },
+            {
+                "Score": 0.9845294952392578,
+                "Type": "TITLE",
+                "Text": "Exchange Act (17 CFR 240.13e-4(c))",
+                "BeginOffset": 73,
+                "EndOffset": 107
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bc64fe62-64ba-11e8-b182-f747b2e2a806",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:42 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "234",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bc64fe62-64ba-11e8-b182-f747b2e2a806"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "3.02\u00a0\u00a0\u00a0\u00a0 Unregistered Sales of Equity Securities.": {
+        "Entities": [
+            {
+                "Score": 0.9454537630081177,
+                "Type": "QUANTITY",
+                "Text": "3.02",
+                "BeginOffset": 0,
+                "EndOffset": 4
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bc8b9906-64ba-11e8-b96d-0b021e992ca3",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:42 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "105",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bc8b9906-64ba-11e8-b96d-0b021e992ca3"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "On March 12, 2016, Premier Pacific Construction, Inc. (the \u201cCompany\u201d) sold 25,000 shares of its common stock (the \u201cShares\u201d), par value $0.001, at a price of $1.00 per share to an individual investor for an aggregate amount of $25,000 which was paid in cash.": {
+        "Entities": [
+            {
+                "Score": 0.9995035529136658,
+                "Type": "DATE",
+                "Text": "March 12, 2016",
+                "BeginOffset": 3,
+                "EndOffset": 17
+            },
+            {
+                "Score": 0.9419962167739868,
+                "Type": "ORGANIZATION",
+                "Text": "Premier Pacific Construction, Inc.",
+                "BeginOffset": 19,
+                "EndOffset": 53
+            },
+            {
+                "Score": 0.9820579886436462,
+                "Type": "QUANTITY",
+                "Text": "25,000 shares",
+                "BeginOffset": 75,
+                "EndOffset": 88
+            },
+            {
+                "Score": 0.9997007250785828,
+                "Type": "QUANTITY",
+                "Text": "$0.001",
+                "BeginOffset": 135,
+                "EndOffset": 141
+            },
+            {
+                "Score": 0.9334650039672852,
+                "Type": "QUANTITY",
+                "Text": "$1.00",
+                "BeginOffset": 157,
+                "EndOffset": 162
+            },
+            {
+                "Score": 0.9998699426651001,
+                "Type": "QUANTITY",
+                "Text": "$25,000",
+                "BeginOffset": 226,
+                "EndOffset": 233
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bcb51a2d-64ba-11e8-b2bf-0b47f881ac93",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:42 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "632",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bcb51a2d-64ba-11e8-b2bf-0b47f881ac93"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "The shares were sold in a private placement transaction not involving a public offering, and as such was exempt from registration under Section 4(a)(2) of the Securities Act of 1933..\nSIGNATURES.": {
+        "Entities": [
+            {
+                "Score": 0.9754390716552734,
+                "Type": "TITLE",
+                "Text": "Section 4(a)(2) of the Securities Act of 1933",
+                "BeginOffset": 136,
+                "EndOffset": 181
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bce467ff-64ba-11e8-85c5-39bd05806486",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:43 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "147",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bce467ff-64ba-11e8-85c5-39bd05806486"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Pursuant to the requirements of the Securities Exchange Act of 1934, as amended, the Registrant has duly caused this report to be signed on its behalf by the undersigned hereunto duly authorized..": {
+        "Entities": [
+            {
+                "Score": 0.9978859424591064,
+                "Type": "TITLE",
+                "Text": "Securities Exchange Act of 1934",
+                "BeginOffset": 36,
+                "EndOffset": 67
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bd0dc167-64ba-11e8-b77f-3bac79b6d182",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:43 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "131",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bd0dc167-64ba-11e8-b77f-3bac79b6d182"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "Date:.": {
+        "Entities": [],
+        "ResponseMetadata": {
+            "RequestId": "bd374268-64ba-11e8-b7c3-4133538cdfdb",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:43 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "15",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bd374268-64ba-11e8-b7c3-4133538cdfdb"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "March 15, 2016\nPremier Pacific Construction, Inc..\n/s/\u00a0\u00a0Richard Francella.": {
+        "Entities": [
+            {
+                "Score": 0.9994487762451172,
+                "Type": "DATE",
+                "Text": "March 15, 2016",
+                "BeginOffset": 0,
+                "EndOffset": 14
+            },
+            {
+                "Score": 0.9259797930717468,
+                "Type": "ORGANIZATION",
+                "Text": "Premier Pacific Construction, Inc.",
+                "BeginOffset": 15,
+                "EndOffset": 49
+            },
+            {
+                "Score": 0.9959893822669983,
+                "Type": "PERSON",
+                "Text": "Richard Francella",
+                "BeginOffset": 56,
+                "EndOffset": 73
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bd60c39b-64ba-11e8-98ab-f9c1c5bd2000",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:43 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "343",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bd60c39b-64ba-11e8-98ab-f9c1c5bd2000"
+            },
+            "RetryAttempts": 0
+        }
+    },
+    "By:\u00a0\u00a0Richard Francella, President, CEO.": {
+        "Entities": [
+            {
+                "Score": 0.991382360458374,
+                "Type": "PERSON",
+                "Text": "Richard Francella",
+                "BeginOffset": 5,
+                "EndOffset": 22
+            }
+        ],
+        "ResponseMetadata": {
+            "RequestId": "bd9b8225-64ba-11e8-a276-f130d52ca39d",
+            "HTTPStatusCode": 200,
+            "HTTPHeaders": {
+                "date": "Thu, 31 May 2018 10:09:44 GMT",
+                "content-type": "application/x-amz-json-1.1",
+                "content-length": "116",
+                "connection": "keep-alive",
+                "x-amzn-requestid": "bd9b8225-64ba-11e8-a276-f130d52ca39d"
+            },
+            "RetryAttempts": 0
+        }
+    }
+}
